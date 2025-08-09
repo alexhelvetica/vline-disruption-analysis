@@ -1,0 +1,1781 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AddEvent.com v1.0//EN
+METHOD:PUBLISH
+NAME:Gippsland Line disruptions
+X-WR-CALNAME:Gippsland Line disruptions
+CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT2H
+REFRESH-INTERVAL;VALUE=DURATION:PT2H
+BEGIN:VTIMEZONE
+TZID:Australia/Melbourne
+BEGIN:STANDARD
+DTSTART:20250406T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20251005T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=10
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201103T232437Z
+UID:SH5490508@addevent.com
+DTSTART;TZID=Australia/Melbourne:20201129T000100
+DTEND;TZID=Australia/Melbourne:20201129T235900
+SUMMARY:Gippsland line - coaches replace trains
+DESCRIPTION:Coaches replace trains between Sale and Bairnsdale stations on Sunday 29 November.
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Sale and Bairnsdale stations on Sunday 29 November.
+LOCATION:Between Sale and Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T041039Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201103T233018Z
+UID:Yr5490518@addevent.com
+DTSTART;TZID=Australia/Melbourne:20201130T000100
+DTEND;TZID=Australia/Melbourne:20201202T235900
+SUMMARY:Gippsland line - coaches replace trains
+DESCRIPTION:Coaches replace trains between Bairnsdale and Sale stations from Monday 30 November to Wednesday 2 December for the following services:\n\n• From Southern Cross Station: 7.20am and 1.20pm services\n• From Bairnsdale Station: 6.03am and 12.45pm services\n\nCoaches replace trains throughout the entire journey for the following services:\n\n• From Southern Cross Station: 6.34pm service\n• From Bairnsdale Station: 6.15pm service\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=5314\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Bairnsdale and Sale stations from Monday 30 November to Wednesday 2 December for the following services:<br /><br />• From Southern Cross Station: 7.20am and 1.20pm services<br />• From Bairnsdale Station: 6.03am and 12.45pm services<br /><br />Coaches replace trains throughout the entire journey for the following services:<br /><br />• From Southern Cross Station: 6.34pm service<br />• From Bairnsdale Station: 6.15pm service<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=5314<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T041039Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201103T232717Z
+UID:Qc5490514@addevent.com
+DTSTART;TZID=Australia/Melbourne:20201203T000100
+DTEND;TZID=Australia/Melbourne:20201206T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace trains between Sale and Bairnsdale stations from Thursday 3 December to last service on Sunday 6 December.
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Sale and Bairnsdale stations from Thursday 3 December to last service on Sunday 6 December.
+LOCATION:Between Sale and Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T041039Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210225T102716Z
+UID:LT6091892@addevent.com
+DTSTART;VALUE=DATE:20210305
+DTEND;VALUE=DATE:20210309
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains for part of the journey from 6.15pm\, Friday 5 March to last service Monday 8 March.\n\n- Evening services on Friday 5 March will run as coaches between Southern Cross and Pakenham stations\, then connect with trains to Traralgon Station.\n- All Traralgon and Bairnsdale services from Saturday 6 March to last service Monday 8 March will be replaced by coaches between Southern Cross and Pakenham stations\, then connect with trains between Pakenham and Traralgon/Bairnsdale stations.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=5874\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains for part of the journey from 6.15pm, Friday 5 March to last service Monday 8 March.<br /><br />- Evening services on Friday 5 March will run as coaches between Southern Cross and Pakenham stations, then connect with trains to Traralgon Station.<br />- All Traralgon and Bairnsdale services from Saturday 6 March to last service Monday 8 March will be replaced by coaches between Southern Cross and Pakenham stations, then connect with trains between Pakenham and Traralgon/Bairnsdale stations.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=5874<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross\, Pakenham\, Traralgon and Bairnsdale stations
+SEQUENCE:2
+LAST-MODIFIED:20230714T041241Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210302T051335Z
+UID:cU6116187@addevent.com
+DTSTART;VALUE=DATE:20210305
+DTEND;VALUE=DATE:20210309
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains for part of the journey from 6.15pm\, Friday 5 March to last service Monday 8 March.\n\n- Evening services on Friday 5 March will run as coaches between Southern Cross and Pakenham stations\, then connect with trains to Traralgon Station.\n\n- All Traralgon and Bairnsdale services from Saturday 6 March to last service Monday 8 March will be replaced by coaches between Southern Cross and Pakenham stations\, then connect with trains between Pakenham and Traralgon/Bairnsdale stations.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=5874\n\nFor more information on Victoria's Big Build visit... \n\n--- \nEvent details: \nhttps://www.addevent.com/event/cU6116187
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains for part of the journey from<strong></strong>6.15pm, Friday 5 March to last service Monday 8 March.<br /><br />- Evening services on Friday 5 March will run as coaches between Southern Cross and Pakenham stations, then connect with trains to Traralgon Station.<br /><br />- All Traralgon and Bairnsdale services from Saturday 6 March to last service Monday 8 March will be replaced by coaches between Southern Cross and Pakenham stations, then connect with trains between Pakenham and Traralgon/Bairnsdale stations.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=5874<br /><br />For more information on Victoria's Big Build visit... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/cU6116187
+LOCATION:Between Southern Cross\, Pakenham\, Traralgon and Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T041244Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210412T043907Z
+UID:WG6275752@addevent.com
+DTSTART;VALUE=DATE:20210416
+DTEND;VALUE=DATE:20210420
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains for part of the journey on Friday 16 April:\n\n- From Southern Cross\, for the 8.27\, 9.54\, 10.59 and 11.59pm services: coaches replace trains between Southern Cross and Pakenham stations\n- From Traralgon\, for the 6.53pm and 8.21pm services: coaches replace trains between Pakenham and Southern Cross stations\n- From Bairnsdale\, for the 6.06pm service: coaches replace trains between Traralgon and Southern Cross stations.\n\nCoaches also replace Bairnsdale and Traralgon services between Southern Cross and Pakenham stations from first train\, Saturday 17 April to last train\, Sunday 18 April.\n\nFor more information visit... \n\n--- \nEvent details: \nhttps://www.addevent.com/event/WG6275752
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains for part of the journey on Friday 16 April:<br /><br />- From Southern Cross, for the 8.27, 9.54, 10.59 and 11.59pm services: coaches replace trains between Southern Cross and Pakenham stations<br />- From Traralgon, for the 6.53pm and 8.21pm services: coaches replace trains between Pakenham and Southern Cross stations<br />- From Bairnsdale, for the 6.06pm service: coaches replace trains between Traralgon and Southern Cross stations.<br /><br />Coaches also replace Bairnsdale and Traralgon services between Southern Cross and Pakenham stations from first train, Saturday 17 April to last train, Sunday 18 April.<br /><br />For more information visit... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/WG6275752
+LOCATION:Between Southern Cross\, Pakenham and Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T041315Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210524T065551Z
+UID:pZ6684072@addevent.com
+DTSTART;VALUE=DATE:20210531
+DTEND;VALUE=DATE:20210603
+SUMMARY:Gippsland Line - Buses replace trains
+DESCRIPTION:Coaches replace trains for part of the journey from Monday 31 May to Wednesday 2 June:\n\n-From Southern Cross\nThe 8.27pm\, 9.54pm\, 10.59pm and 11.59pm trains between Southern Cross and Pakenham stations.\n-From Traralgon\nThe 6.53pm\, 7.46pm and 8.21pm trains between Pakenham and Southern Cross stations\n-From Bairnsdale\nThe 6.06pm train between Traralgon and Southern Cross station.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6345\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains for part of the journey from Monday 31 May to Wednesday 2 June:<br /><br />-From Southern Cross<br />The 8.27pm, 9.54pm, 10.59pm and 11.59pm trains between Southern Cross and Pakenham stations.<br />-From Traralgon<br />The 6.53pm, 7.46pm and 8.21pm trains between Pakenham and Southern Cross stations<br />-From Bairnsdale<br />The 6.06pm train between Traralgon and Southern Cross station.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6345<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham/Traralgon stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T041435Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210528T070103Z
+UID:Xz6750673@addevent.com
+DTSTART;VALUE=DATE:20210611
+DTEND;VALUE=DATE:20210617
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains for part of the journey from Friday 11 June to Wednesday 16 June.\n\nOn Friday 11 June\, Tuesday 15 June and Wednesday 16 June:\n\n-From Southern Cross: The 8.27pm\, 9.59pm\, 10.59pm and 11.59pm trains between Southern Cross and Pakenham stations.\n-From Traralgon: The 6.53pm and 8.22pm trains between Pakenham and Southern Cross stations.\n-From Bairnsdale: The 6.06pm train between Traralgon and Southern Cross station.\n\nCoaches also replace all trains between Sothern Cross and Traralgon/Bairnsdale stations from first train\, Saturday 12 June to last train\, Monday 14 June.\n\nFor more information visit... \n\n--- \nEvent details: \nhttps://www.addevent.com/event/Xz6750673
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains for part of the journey from Friday 11 June to Wednesday 16 June.<br /><br />On Friday 11 June, Tuesday 15 June and Wednesday 16 June:<br /><br />-From Southern Cross: The 8.27pm, 9.59pm, 10.59pm and 11.59pm trains between Southern Cross and Pakenham stations.<br />-From Traralgon: The 6.53pm and 8.22pm trains between Pakenham and Southern Cross stations.<br />-From Bairnsdale: The 6.06pm train between Traralgon and Southern Cross station.<br /><br />Coaches also replace all trains between Sothern Cross and Traralgon/Bairnsdale stations from first train, Saturday 12 June to last train, Monday 14 June.<br /><br />For more information visit... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/Xz6750673
+LOCATION:Between Southern Cross and Pakenham/Traralgon//Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T041444Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210607T043207Z
+UID:dZ6871893@addevent.com
+DTSTART;VALUE=DATE:20210612
+DTEND;VALUE=DATE:20210614
+SUMMARY:Traralgon and Bairnsdale lines - Coaches replace trains
+DESCRIPTION:Coaches replace trains between Southern Cross and Pakenham stations from Saturday 12 June to Sunday 13 June.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6447\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Southern Cross and Pakenham stations from Saturday 12 June to Sunday 13 June.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6447<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T041503Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210616T055808Z
+UID:RV7024321@addevent.com
+DTSTART;VALUE=DATE:20210704
+DTEND;VALUE=DATE:20210708
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains for all or part of the journey between Sunday 4 July and Wednesday 7 July.\n\nOn Sunday 4 July:\n\n- From Southern Cross\nThe 9.27pm service replaced by coaches for the entire journey.\nCoaches replace trains for part of the journey from Monday 5 July to Wednesday 7 July:\n\n- From Southern Cross\nThe 8.27pm\, 9.54pm\, 10.59pm and 11.59pm trains between Southern Cross and Pakenham stations.\n- From Traralgon\nThe 6.53pm and 8.21pm trains between Pakenham and Southern Cross stations.\n- From Bairnsdale\nThe 6.06pm train between Pakenham and Southern Cross stations.\n\nFor more information visit... \n\n--- \nEvent details: \nhttps://www.addevent.com/event/RV7024321
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains for all or part of the journey between Sunday 4 July and Wednesday 7 July.<br /><br />On Sunday 4 July:<br /><br />- From Southern Cross<br />The 9.27pm service replaced by coaches for the entire journey.<br />Coaches replace trains for part of the journey from Monday 5 July to Wednesday 7 July:<br /><br />- From Southern Cross<br />The 8.27pm, 9.54pm, 10.59pm and 11.59pm trains between Southern Cross and Pakenham stations.<br />- From Traralgon<br />The 6.53pm and 8.21pm trains between Pakenham and Southern Cross stations.<br />- From Bairnsdale<br />The 6.06pm train between Pakenham and Southern Cross stations.<br /><br />For more information visit... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/RV7024321
+LOCATION:Between Southern Cross and Pakenham/Traralgon//Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T041527Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210706T073433Z
+UID:EY7388843@addevent.com
+DTSTART;VALUE=DATE:20210717
+DTEND;VALUE=DATE:20210719
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace evening Traralgon trains for the entire journey on Saturday 17 July and Sunday 18 July.\n\nSaturday 17 July:\n\nFrom Southern Cross\n- The 9.27pm\, 10.59pm and 11.59pm trains between Southern Cross and Traralgon stations.\nFrom Traralgon\n- The 8.20pm train between Traralgon and Southern Cross stations.\n\nSunday 18 July:\nFrom Southern Cross\n- The 9.27pm train between Southern Cross and Traralgon stations.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6567\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening Traralgon trains for the entire journey on Saturday 17 July and Sunday 18 July.<br /><br />Saturday 17 July:<br /><br />From Southern Cross<br /> - The 9.27pm, 10.59pm and 11.59pm trains between Southern Cross and Traralgon stations.<br />From Traralgon<br /> - The 8.20pm train between Traralgon and Southern Cross stations.<br /><br />Sunday 18 July:<br />From Southern Cross<br /> - The 9.27pm train between Southern Cross and Traralgon stations.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6567<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T041626Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210719T064016Z
+UID:fi7617092@addevent.com
+DTSTART;VALUE=DATE:20210804
+DTEND;VALUE=DATE:20210808
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace the 10.59pm and 11.59pm trains between Southern Cross and Traralgon stations from Wednesday 4 August to Saturday 7 August.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6645\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace the 10.59pm and 11.59pm trains between Southern Cross and Traralgon stations from Wednesday 4 August to Saturday 7 August.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6645<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T041658Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210723T052900Z
+UID:XF7702474@addevent.com
+DTSTART;VALUE=DATE:20210808
+DTEND;VALUE=DATE:20210814
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains for all or part of the journey from Sunday 8 August to Friday 13 August.\n\nSunday 8 August:\n\n- From Southern Cross Station: The 9.27pm Traralgon service replaced by coaches for the entire journey.\n\nMonday 9 August to Wednesday 11 August and Friday 13 August:\n\n-From Southern Cross Station: The 8.27pm\, 9.54pm\, 10.59pm and 11.59pm trains between Southern Cross and Pakenham stations.\n-From Traralgon Station: The 6.53pm and 8.21pm trains between Pakenham and Southern Cross stations.\n-From Bairnsdale Station: The 6.06pm train between Pakenham and Southern Cross stations.\n\nThursday 12 August:\n\n- From Southern Cross Station: The 10.59pm and 11.59pm Traralgon... \n\n--- \nEvent details: \nhttps://www.addevent.com/event/XF7702474
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains for all or part of the journey from Sunday 8 August to Friday 13 August.<br /><br />Sunday 8 August:<br /><br />- From Southern Cross Station: The 9.27pm Traralgon service replaced by coaches for the entire journey.<br /><br />Monday 9 August to Wednesday 11 August and Friday 13 August:<br /><br />-From Southern Cross Station: The 8.27pm, 9.54pm, 10.59pm and 11.59pm trains between Southern Cross and Pakenham stations.<br />-From Traralgon Station: The 6.53pm and 8.21pm trains between Pakenham and Southern Cross stations.<br />-From Bairnsdale Station: The 6.06pm train between Pakenham and Southern Cross stations.<br /><br />Thursday 12 August:<br /><br />- From Southern Cross Station: The 10.59pm and 11.59pm Traralgon... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/XF7702474
+LOCATION:Between Southern Cross and Pakenham/Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T041810Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210727T060033Z
+UID:fN7763005@addevent.com
+DTSTART;VALUE=DATE:20210814
+DTEND;VALUE=DATE:20210816
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains Between Southern Cross and Pakenham stations from first train\, Saturday 14 August to 9.20pm\, Sunday 15 August.\n\nCoaches replace the 9.20pm train for the entire journey from Southern Cross to Traralgon/Bairnsdale stations.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6692\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains Between Southern Cross and Pakenham stations from first train, Saturday 14 August to 9.20pm, Sunday 15 August.<br /><br />Coaches replace the 9.20pm train for the entire journey from Southern Cross to Traralgon/Bairnsdale stations.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6692<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham/Traralgon/Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T041819Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210727T055925Z
+UID:iY7762975@addevent.com
+DTSTART;VALUE=DATE:20210816
+DTEND;VALUE=DATE:20210820
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains for part of the journey from Monday 16 August to Thursday 19 August:\n\n- From Southern Cross Station: The 8.27pm\, 9.54pm\, 10.59pm and 11.59pm trains between Southern Cross and Traralgon stations.\n- From Traralgon Station: The 6.53pm and 8.21pm trains between Traralgon and Southern Cross stations.\n- From Bairnsdale Station: The 6.06pm train between Pakenham and Southern Cross stations.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6694\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains for part of the journey from Monday 16 August to Thursday 19 August:<br /><br />- From Southern Cross Station: The 8.27pm, 9.54pm, 10.59pm and 11.59pm trains between Southern Cross and Traralgon stations.<br />- From Traralgon Station: The 6.53pm and 8.21pm trains between Traralgon and Southern Cross stations.<br />- From Bairnsdale Station: The 6.06pm train between Pakenham and Southern Cross stations.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6694<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham/Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T041819Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210817T043625Z
+UID:aZ8146427@addevent.com
+DTSTART;VALUE=DATE:20210830
+DTEND;VALUE=DATE:20210903
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains at various times between Monday 30 August and Thursday 2 September.\n\nOn Monday 30 August and Tuesday 31 August:\n- From Southern Cross Station: The 8.27pm\, 9.54pm\, 10.59pm and 11.59pm Traralgon services between Southern Cross and Pakenham stations.\n- From Traralgon: The 6.53pm and 8.21pm Traralgon services between Pakenham and Southern Cross stations.\n- From Bairnsdale: The 6.06pm Bairnsdale service between Pakenham and Southern Cross stations.\n\nOn Wednesday 1 September and Thursday 2 September\n- From Southern Cross: The 9.54pm\, 10.59pm and 11.59pm Traralgon services between Southern Cross and Pakenham stations.\n- From Bairnsdale: The 6.06pm Bairnsdale service... \n\n--- \nEvent details: \nhttps://www.addevent.com/event/aZ8146427
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains at various times between Monday 30 August and Thursday 2 September.<br /><br />On Monday 30 August and Tuesday 31 August:<br />- From Southern Cross Station: The 8.27pm, 9.54pm, 10.59pm and 11.59pm Traralgon services between Southern Cross and Pakenham stations.<br />- From Traralgon: The 6.53pm and 8.21pm Traralgon services between Pakenham and Southern Cross stations.<br />- From Bairnsdale: The 6.06pm Bairnsdale service between Pakenham and Southern Cross stations.<br /><br />On Wednesday 1 September and Thursday 2 September<br />- From Southern Cross: The 9.54pm, 10.59pm and 11.59pm Traralgon services between Southern Cross and Pakenham stations.<br />- From Bairnsdale: The 6.06pm Bairnsdale service... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/aZ8146427
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T041913Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210824T044249Z
+UID:VC8279906@addevent.com
+DTSTART;VALUE=DATE:20210910
+DTEND;VALUE=DATE:20210913
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains at various times from Friday 10 September to Sunday 12 September.\n\nOn Friday 10 September:\n\n- From Southern Cross Station: The 8.27pm\, 9.54pm\, 10.59pm and 11.59pm Traralgon services between Southern Cross and Traralgon stations.\n- From Traralgon Station: The 6.53pm and 8.21pm Traralgon services between Traralgon and Southern Cross stations.\n- From Bairnsdale Station: The 6.06pm Bairnsdale service between Traralgon and Southern Cross stations.\n\nOn Saturday 11 September and Sunday 12 September:\n\n-All Traralgon and Bairnsdale services between Southern Cross and Traralgon/Bairnsdale stations.\n\nFor more information visit... \n\n--- \nEvent details: \nhttps://www.addevent.com/event/VC8279906
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains at various times from Friday 10 September to Sunday 12 September.<br /><br />On Friday 10 September:<br /><br />- From Southern Cross Station: The 8.27pm, 9.54pm, 10.59pm and 11.59pm Traralgon services between Southern Cross and Traralgon stations.<br />- From Traralgon Station: The 6.53pm and 8.21pm Traralgon services between Traralgon and Southern Cross stations.<br />- From Bairnsdale Station: The 6.06pm Bairnsdale service between Traralgon and Southern Cross stations.<br /><br />On Saturday 11 September and Sunday 12 September:<br /><br />-All Traralgon and Bairnsdale services between Southern Cross and Traralgon/Bairnsdale stations.<br /><br />For more information visit... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/VC8279906
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T041956Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210906T000847Z
+UID:EJ8515927@addevent.com
+DTSTART;VALUE=DATE:20210913
+DTEND;VALUE=DATE:20210917
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains at various times between Monday 13 September and Thursday 16 September.\n\nFrom Monday 13 September to Wednesday 15 September:\n\n- From Southern Cross Station: The 8.27pm\, 9.54pm\, 10.59pm and 11.59pm Traralgon services between Southern Cross and Traralgon stations\n- From Traralgon Station: The 6.53pm and 8.21pm Traralgon services between Traralgon and Southern Cross Stations.\n- From Bairnsdale Station: The 6.06pm Bairnsdale service between Pakenham and Southern Cross stations.\n\nOn Thursday 16 September:\n\n- From Southern Cross Station: The 8.27pm\, 9.54pm\, 10.59pm and 11.59pm Traralgon services between Southern Cross and Pakenham stations.\n- From Traralgon... \n\n--- \nEvent details: \nhttps://www.addevent.com/event/EJ8515927
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains at various times between Monday 13 September and Thursday 16 September.<br /><br />From Monday 13 September to Wednesday 15 September:<br /><br />- From Southern Cross Station: The 8.27pm, 9.54pm, 10.59pm and 11.59pm Traralgon services between Southern Cross and Traralgon stations<br />- From Traralgon Station: The 6.53pm and 8.21pm Traralgon services between Traralgon and Southern Cross Stations.<br />- From Bairnsdale Station: The 6.06pm Bairnsdale service between Pakenham and Southern Cross stations.<br /><br />On Thursday 16 September:<br /><br />- From Southern Cross Station: The 8.27pm, 9.54pm, 10.59pm and 11.59pm Traralgon services between Southern Cross and Pakenham stations.<br />- From Traralgon... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/EJ8515927
+LOCATION:Between Southern Cross and Pakenham/Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T042031Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210906T000642Z
+UID:Bq8515922@addevent.com
+DTSTART;VALUE=DATE:20210919
+DTEND;VALUE=DATE:20210921
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains between Southern Cross and Pakenham stations from Sunday 19 September and Monday 20 September.\n\nOn Sunday 19 September:\n- The 9.27pm Traralgon service from Southern Cross Station.\n\nOn Monday 20 September:\n- The 8.27pm\, 9.54pm\, 10.59pm and 11.59pm Traralgon services from Southern Cross station.\n- The 6.53pm and 8.21pm Traralgon services from Traralgon Station.\n- The 6.06pm Bairnsdale service from Bairnsdale Station.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6892\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Southern Cross and Pakenham stations from Sunday 19 September and Monday 20 September.<br /><br />On Sunday 19 September:<br />- The 9.27pm Traralgon service from Southern Cross Station.<br /><br />On Monday 20 September:<br />- The 8.27pm, 9.54pm, 10.59pm and 11.59pm Traralgon services from Southern Cross station.<br />- The 6.53pm and 8.21pm Traralgon services from Traralgon Station.<br />- The 6.06pm Bairnsdale service from Bairnsdale Station.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6892<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T042031Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210920T065930Z
+UID:IL8803966@addevent.com
+DTSTART;VALUE=DATE:20210927
+DTEND;VALUE=DATE:20211001
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace some evening Traralgon and Bairnsdale trains between Southern Cross and Pakenham stations from Monday 27 September to Thursday 30 September.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6938\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace some evening Traralgon and Bairnsdale trains between Southern Cross and Pakenham stations from Monday 27 September to Thursday 30 September.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6938<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T042113Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210920T070113Z
+UID:eG8804029@addevent.com
+DTSTART;VALUE=DATE:20211002
+DTEND;VALUE=DATE:20211004
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace all Traralgon and Bairnsdale trains between Southern Cross and Pakenham stations on Saturday 2 October and Sunday 3 October.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6939\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace all Traralgon and Bairnsdale trains between Southern Cross and Pakenham stations on Saturday 2 October and Sunday 3 October.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6939<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T042113Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210916T000323Z
+UID:OI8737536@addevent.com
+DTSTART;VALUE=DATE:20211005
+DTEND;VALUE=DATE:20211008
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace some Traralgon and Bairnsdale trains between Southern Cross and Pakenham stations from Tuesday 5 October to Thursday 7 October:\n\n- The 8.27pm\, 9.54pm\, 10.59pm and 11.59pm Traralgon trains from Southern Cross Station.\n- The 6.53pm and 8.21pm trains from Traralgon Station.\n- The 6.06pm train from Bairnsdale Station.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6935\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace some Traralgon and Bairnsdale trains between Southern Cross and Pakenham stations from Tuesday 5 October to Thursday 7 October:<br /><br />- The 8.27pm, 9.54pm, 10.59pm and 11.59pm Traralgon trains from Southern Cross Station.<br />- The 6.53pm and 8.21pm trains from Traralgon Station.<br />- The 6.06pm train from Bairnsdale Station.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6935<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T042104Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210916T000138Z
+UID:iB8737527@addevent.com
+DTSTART;VALUE=DATE:20211010
+DTEND;VALUE=DATE:20211014
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace some Traralgon and Bairnsdale trains between Southern Cross and Traralgon stations from Sunday 10 October to Wednesday 13 October:\n\n- The 9.59pm\, 10.59pm and 11.59pm Traralgon trains from Southern Cross Station.\n- The 6.53pm and 8.21pm trains from Traralgon.\n- The 6.06pm train from Bairnsdale Station.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6937\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace some Traralgon and Bairnsdale trains between Southern Cross and Traralgon stations from Sunday 10 October to Wednesday 13 October:<br /><br />- The 9.59pm, 10.59pm and 11.59pm Traralgon trains from Southern Cross Station.<br />- The 6.53pm and 8.21pm trains from Traralgon.<br />- The 6.06pm train from Bairnsdale Station.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6937<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T042104Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211007T230605Z
+UID:Ut9226793@addevent.com
+DTSTART;VALUE=DATE:20211022
+DTEND;VALUE=DATE:20211025
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace some Gippsland Line trains between Southern Cross and Pakenham stations from the evening of Friday 22 October to Sunday 24 October.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6989\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace some Gippsland Line trains between Southern Cross and Pakenham stations from the evening of Friday 22 October to Sunday 24 October.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6989<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T042216Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211007T230819Z
+UID:CE9226800@addevent.com
+DTSTART;VALUE=DATE:20211026
+DTEND;VALUE=DATE:20211029
+SUMMARY:Traralgon and Bairnsdale lines - Coaches replace trains
+DESCRIPTION:Coaches replace trains on the Traralgon and Bairnsdale lines between Southern Cross and Traralgon/Bairnsdale stations from the evening of Tuesday 26 October to last train\, Thursday 28 October.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6976\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains on the Traralgon and Bairnsdale lines between Southern Cross and Traralgon/Bairnsdale stations from the evening of Tuesday 26 October to last train, Thursday 28 October.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6976<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T042216Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211018T044501Z
+UID:yJ9444359@addevent.com
+DTSTART;VALUE=DATE:20211029
+DTEND;VALUE=DATE:20211112
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains each evening between Southern Cross and Pakenham stations from:\n\n- Friday 29 October to Thursday 4 November.\n- Sunday 7 November to Wednesday 10 November.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7032\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains each evening between Southern Cross and Pakenham stations from:<br /><br />- Friday 29 October to Thursday 4 November.<br />- Sunday 7 November to Wednesday 10 November.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7032<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T042242Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211022T001530Z
+UID:Zw9552322@addevent.com
+DTSTART;VALUE=DATE:20211031
+DTEND;VALUE=DATE:20211105
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains each evening from Sunday 31 October to Thursday 4 November.\n\nOn Sunday 31 October:\n-From Southern Cross Station: The 9.27pm Traralgon train between Southern Cross and Traralgon stations.\n\nOn Monday 1 November and from Wednesday 3 November to Thursday 4 November:\n- From Southern Cross Station: The 8.27pm\, 9.54pm\, 10.59pm and 11.59pm Traralgon trains between Southern Cross and Pakenham stations.\n- From Traralgon Station: The 6.53pm and 8.21pm trains between Pakenham and Southern Cross stations.\n- From Bairnsdale Station: The 6.06pm train between Pakenham and Southern Cross stations.\n\nOn Tuesday 2 November\n- From Southern Cross Station: The 9.27pm\, 10.59pm and... \n\n--- \nEvent details: \nhttps://www.addevent.com/event/Zw9552322
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains each evening from Sunday 31 October to Thursday 4 November.<br /><br />On Sunday 31 October:<br />-From Southern Cross Station: The 9.27pm Traralgon train between Southern Cross and Traralgon stations.<br /><br />On Monday 1 November and from Wednesday 3 November to Thursday 4 November:<br />- From Southern Cross Station: The 8.27pm, 9.54pm, 10.59pm and 11.59pm Traralgon trains between Southern Cross and Pakenham stations.<br />- From Traralgon Station: The 6.53pm and 8.21pm trains between Pakenham and Southern Cross stations.<br />- From Bairnsdale Station: The 6.06pm train between Pakenham and Southern Cross stations.<br /><br />On Tuesday 2 November<br />- From Southern Cross Station: The 9.27pm, 10.59pm and... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/Zw9552322
+LOCATION:Between Southern Cross and Pakenham/Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T042254Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20210824T015732Z
+UID:SB8279595@addevent.com
+DTSTART;VALUE=DATE:20211112
+DTEND;VALUE=DATE:20211122
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace all Traralgon and Bairnsdale trains for the entire journey from Friday 12 November to Sunday 21 November.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6836\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace all Traralgon and Bairnsdale trains for the entire journey from Friday 12 November to Sunday 21 November.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=6836<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T041956Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211116T224726Z
+UID:QX10142554@addevent.com
+DTSTART;VALUE=DATE:20211122
+DTEND;VALUE=DATE:20211203
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace some trains from Monday 22 November to Thursday 2 December.\n\n- Monday 22 November to Thursday 25 November: All trains between Southern Cross and Bairnsdale stations.\n- Friday 26 November: The 6.02pm train from Bairnsdale Station between Pakenham and Southern Cross stations.\n- Saturday 27 November and Sunday 28 November: Bairnsdale trains between Southern Cross and Pakenham stations.\n- Monday 29 November to Thursday 2 December: The 6.02pm train from Bairnsdale Station between Pakenham and Southern Cross stations.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7212\n\nFor more information on Victoria's Big Build visit... \n\n--- \nEvent details: \nhttps://www.addevent.com/event/QX10142554
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace some trains from Monday 22 November to Thursday 2 December.<br /><br />- Monday 22 November to Thursday 25 November: All trains between Southern Cross and Bairnsdale stations.<br />- Friday 26 November: The 6.02pm train from Bairnsdale Station between Pakenham and Southern Cross stations.<br />- Saturday 27 November and Sunday 28 November: Bairnsdale trains between Southern Cross and Pakenham stations.<br />- Monday 29 November to Thursday 2 December: The 6.02pm train from Bairnsdale Station between Pakenham and Southern Cross stations.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7212<br /><br />For more information on Victoria's Big Build visit... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/QX10142554
+LOCATION:Between Southern Cross and Pakenham/Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T042410Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211112T061500Z
+UID:Je10035747@addevent.com
+DTSTART;VALUE=DATE:20211126
+DTEND;VALUE=DATE:20211129
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Buses replace trains between Southern Cross and Pakenham stations between Friday 26 November and Sunday 28 November:\n\n- From Pakenham to Southern Cross stations\, 6.30pm to last train each night.\n- From Southern Cross to Pakenham\, 8pm to last train each night.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7165\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Buses replace trains between Southern Cross and Pakenham stations between Friday 26 November and Sunday 28 November:<br /><br />- From Pakenham to Southern Cross stations, 6.30pm to last train each night.<br />- From Southern Cross to Pakenham, 8pm to last train each night.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7165<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross to Pakenham stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T042359Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T031703Z
+UID:pW10422658@addevent.com
+DTSTART;VALUE=DATE:20211203
+DTEND;VALUE=DATE:20211209
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains at various times from Friday 3 December to Wednesday 8 December.\n\nOn Friday 3 December:\n\n- From Southern Cross Station: Between Southern Cross and Pakenham stations\, 8pm to last train.\n- From Traralgon Station: Between Pakenham to Southern Cross stations\, 6.50pm to last train.\n- From Bairnsdale Station: The 6.02pm train between Pakenham and Southern Cross stations.\n\nOn Saturday 4 December:\n\nAll trains between Southern Cross and Pakenham stations.\n\nOn Sunday 5 December:\n\n- All trains between Southern Cross and Pakenham stations.\n- The 9.27pm between Southern Cross and Traralgon stations.\n\nFrom Monday 6 December to Wednesday 8 December:\n\n- From... \n\n--- \nEvent details: \nhttps://www.addevent.com/event/pW10422658
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains at various times from Friday 3 December to Wednesday 8 December.<br /><br />On Friday 3 December:<br /><br />- From Southern Cross Station: Between Southern Cross and Pakenham stations, 8pm to last train.<br />- From Traralgon Station: Between Pakenham to Southern Cross stations, 6.50pm to last train.<br />- From Bairnsdale Station: The 6.02pm train between Pakenham and Southern Cross stations.<br /><br />On Saturday 4 December:<br /><br />All trains between Southern Cross and Pakenham stations.<br /><br />On Sunday 5 December:<br /><br />- All trains between Southern Cross and Pakenham stations.<br />- The 9.27pm between Southern Cross and Traralgon stations.<br /><br />From Monday 6 December to Wednesday 8 December:<br /><br />- From... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/pW10422658
+LOCATION:Between Southern Cross and Pakenham/Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T042449Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211116T013243Z
+UID:Xj10117409@addevent.com
+DTSTART;VALUE=DATE:20211214
+DTEND;VALUE=DATE:20211224
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Buses replace trains between Southern Cross and Pakenham stations from Tuesday 14 December evening to last train\, Thursday 23 December.\n\nSee journey planner for specific train times affected on Tuesday 14 December.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7204\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Buses replace trains between Southern Cross and Pakenham stations from Tuesday 14 December evening to last train, Thursday 23 December.<br /><br />See journey planner for specific train times affected on Tuesday 14 December.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7204<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T042407Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211222T225608Z
+UID:be10929143@addevent.com
+DTSTART;VALUE=DATE:20220102
+DTEND;VALUE=DATE:20220106
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace some evening Gippsland Line trains between Southern Cross and Traralgon/Bairnsdale stations from Sunday 2 January to Wednesday 5 January.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7396\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace some evening Gippsland Line trains between Southern Cross and Traralgon/Bairnsdale stations from Sunday 2 January to Wednesday 5 January.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7396<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T042548Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220111T003737Z
+UID:Np11268748@addevent.com
+DTSTART;VALUE=DATE:20220111
+DTEND;VALUE=DATE:20220214
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains on sections of the Gippsland Line:\n\n- Between Southern Cross and Traralgon stations on Tuesday 11 January\, 8pm to the last train.\n- The 6.02pm Bairnsdale train between Traralgon and Southern Cross stations on Tuesday 11 January.\n- Between Southern Cross\, Traralgon and Bairnsdale stations from first train\, Wednesday 12 January to last train\, Sunday 13 February.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7414\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains on sections of the Gippsland Line:<br /><br />- Between Southern Cross and Traralgon stations on Tuesday 11 January, 8pm to the last train.<br />- The 6.02pm Bairnsdale train between Traralgon and Southern Cross stations on Tuesday 11 January.<br />- Between Southern Cross, Traralgon and Bairnsdale stations from first train, Wednesday 12 January to last train, Sunday 13 February.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7414<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T043351Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220221T044127Z
+UID:cK12203308@addevent.com
+DTSTART;VALUE=DATE:20220220
+DTEND;VALUE=DATE:20220221
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains between Southern Cross and Traralgon/Bairnsdale stations on Sunday 20 February\, first to last train.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7684\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Southern Cross and Traralgon/Bairnsdale stations on Sunday 20 February, first to last train.<br /><br />For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7684<br /><br />For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T043544Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220218T035116Z
+UID:FN12154466@addevent.com
+DTSTART;VALUE=DATE:20220226
+DTEND;VALUE=DATE:20220305
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace some evening trains from Saturday 26 February to Thursday 3 March.\n\nSaturday 26 February:\n\n- From Southern Cross Station: 9pm to last train\, between Southern Cross and Traralgon stations.\n- From Traralgon Station: The 8.20pm train between Traralgon and Southern Cross stations.\n- From Bairnsdale Station: The 4.49pm train between Traralgon and Southern Cross stations.\n\nSunday 27 February:\n\n- The 9.27pm train from Southern Cross Station between Southern Cross and Traralgon stations.\n\nMonday 28 February to Thursday 3 March:\n\n- From Southern Cross: 8pm to last train\, between Southern Cross and Traralgon stations.\n- From Traralgon: 6.50pm to last train between... \n\n--- \nEvent details: \nhttps://www.addevent.com/event/FN12154466
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace some evening trains from Saturday 26 February to Thursday 3 March.<br /><br />Saturday 26 February:<br /><br />- From Southern Cross Station: 9pm to last train, between Southern Cross and Traralgon stations.<br />- From Traralgon Station: The 8.20pm train between Traralgon and Southern Cross stations.<br />- From Bairnsdale Station: The 4.49pm train between Traralgon and Southern Cross stations.<br /><br />Sunday 27 February:<br /><br />- The 9.27pm train from Southern Cross Station between Southern Cross and Traralgon stations.<br /><br />Monday 28 February to Thursday 3 March:<br /><br />- From Southern Cross: 8pm to last train, between Southern Cross and Traralgon stations.<br />- From Traralgon: 6.50pm to last train between... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/FN12154466
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T043539Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220221T235806Z
+UID:Ri12225086@addevent.com
+DTSTART;VALUE=DATE:20220306
+DTEND;VALUE=DATE:20220310
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Buses replace some evening trains from Sunday 6 March to Wednesday 9 March.\n\nOn Sunday 6 March:\n- From Southern Cross Station: The 21.27pm train between Southern Cross and Traralgon stations.\n\nMonday 7 March and Tuesday 8 March:\n- From Southern Cross Station: The 9.59pm\, 10.59pm and 11.59pm trains between Southern Cross and Pakenham stations.\n- From Traralgon Station: The 8.22pm train between Pakenham and Southern Cross stations.\n- From Bairnsdale Station: The 6.02pm train between Pakenham and Southern Cross stations.\n\nWednesday 9 March:\n- From Southern Cross Station: 8pm to last train\, between Southern Cross and Pakenham stations.\n- From Traralgon Station: 6.30pm to train\,... \n\n--- \nEvent details: \nhttps://www.addevent.com/event/Ri12225086
+X-ALT-DESC;FMTTYPE=text/html:Buses replace some evening trains from Sunday 6 March to Wednesday 9 March.<br /><br />On Sunday 6 March:<br />- From Southern Cross Station: The 21.27pm train between Southern Cross and Traralgon stations.<br /><br />Monday 7 March and Tuesday 8 March:<br />- From Southern Cross Station: The 9.59pm, 10.59pm and 11.59pm trains between Southern Cross and Pakenham stations.<br />- From Traralgon Station: The 8.22pm train between Pakenham and Southern Cross stations.<br />- From Bairnsdale Station: The 6.02pm train between Pakenham and Southern Cross stations.<br /><br />Wednesday 9 March:<br />- From Southern Cross Station: 8pm to last train, between Southern Cross and Pakenham stations.<br />- From Traralgon Station: 6.30pm to train,... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/Ri12225086
+LOCATION:Between Southern Cross and Pakenham/Traralgon stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T043547Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220224T045013Z
+UID:vi12286112@addevent.com
+DTSTART;VALUE=DATE:20220309
+DTEND;VALUE=DATE:20220322
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains between Southern Cross\, Traralgon and Bairnsdale stations from 9pm\, Wednesday 9 March to last train\, Monday 21 March. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7709\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Southern Cross, Traralgon and Bairnsdale stations from 9pm, Wednesday 9 March to last train, Monday 21 March. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7709<br><br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross\, Traralgon and Bairnsdale
+SEQUENCE:3
+LAST-MODIFIED:20230714T043553Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220308T042512Z
+UID:ye12579697@addevent.com
+DTSTART;VALUE=DATE:20220322
+DTEND;VALUE=DATE:20220326
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace some evening trains between from Tuesday 22 March to Thursday 24 March.\n\n- From Southern Cross Station: between Southern Cross and Pakenham stations\, 9.30pm to last train.\n- From Traralgon Station: the 8.22pm train between Pakenham and Southern Cross stations.\n- From Bairnsdale Station: the 6.06pm train between Pakenham and Southern Cross stations.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7788<br id="isPasted">\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace some evening trains between from Tuesday 22 March to Thursday 24 March.<br><br>- From Southern Cross Station: between Southern Cross and Pakenham stations, 9.30pm to last train.<br>- From Traralgon Station: the 8.22pm train between Pakenham and Southern Cross stations.<br>- From Bairnsdale Station: the 6.06pm train between Pakenham and Southern Cross stations.<br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7788<br id="isPasted"><br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T043627Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220311T004642Z
+UID:ej12685579@addevent.com
+DTSTART;VALUE=DATE:20220327
+DTEND;VALUE=DATE:20220401
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Buses replace some evening trains from Sunday 27 March to Thursday 31 March.\n<br id="isPasted">On Sunday 27 March: \n- From Southern Cross Station: the 9.27pm train between Southern Cross and Traralgon stations.\n\nMonday 28 March to Thursday 31 March:\n- From Southern Cross Station: between Southern Cross and Traralgon stations\, 8pm to last train\n- From Traralgon Station: between Traralgon and Southern Cross stations\, 6.50pm to last train\n- From Bairnsdale Station: the 6.03pm train between Traralgon and Southern Cross stations.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7797\n\nFor more information on... --- Event details: https://www.addevent.com/event/ej12685579
+X-ALT-DESC;FMTTYPE=text/html:Buses replace some evening trains from Sunday 27 March to Thursday 31 March.<br><br id="isPasted">On Sunday 27 March: <br>- From Southern Cross Station: the 9.27pm train between Southern Cross and Traralgon stations.<br><br>Monday 28 March to Thursday 31 March:<br>- From Southern Cross Station: between Southern Cross and Traralgon stations, 8pm to last train<br>- From Traralgon Station: between Traralgon and Southern Cross stations, 6.50pm to last train<br>- From Bairnsdale Station: the 6.03pm train between Traralgon and Southern Cross stations.<br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7797<br><br>For more information on... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/ej12685579
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T043645Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220321T045123Z
+UID:vH12949491@addevent.com
+DTSTART;VALUE=DATE:20220408
+DTEND;VALUE=DATE:20220412
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains between Southern Cross\, Traralgon and Bairnsdale stations from 8pm\, Friday 8 April to last train\, Monday 11 April. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7811<br id="isPasted">\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Southern Cross, Traralgon and Bairnsdale stations from 8pm, Friday 8 April to last train, Monday 11 April. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7811<br id="isPasted"><br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross\, Traralgon and Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T043717Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220411T051111Z
+UID:bw13441484@addevent.com
+DTSTART;VALUE=DATE:20220424
+DTEND;VALUE=DATE:20220428
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace evening trains for some or all of the trip from Sunday 24 to Wednesday 27 April.  \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7944<br id="isPasted">\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains for some or all of the trip from Sunday 24 to Wednesday 27 April.  <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=7944<br id="isPasted"><br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross\, Bairnsdale and Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T043829Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220512T062244Z
+UID:tG13712380@addevent.com
+DTSTART;VALUE=DATE:20220514
+DTEND;VALUE=DATE:20220520
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains:\n- between Southern Cross and Traralgon stations: from 8pm Saturday 14 May to last train Sunday 15 May.\n- between Southern Cross and Pakenham stations: from 9pm to last train each night\, Monday 16 May to Thursday 19 May.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8116\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains:<br>- between Southern Cross and Traralgon stations: from 8pm Saturday 14 May to last train Sunday 15 May.<br>- between Southern Cross and Pakenham stations: from 9pm to last train each night, Monday 16 May to Thursday 19 May.<br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8116<br ><br>For more information on Victoria&#39;s Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T043914Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220516T002859Z
+UID:rx13741063@addevent.com
+DTSTART;VALUE=DATE:20220522
+DTEND;VALUE=DATE:20220527
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains each night\, from Sunday 22 May to Thursday 26 May.  \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8131\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains each night, from Sunday 22 May to Thursday 26 May.  <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8131<br ><br>For more information on Victoria&#39;s Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T043918Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220605T234927Z
+UID:yR13941369@addevent.com
+DTSTART;VALUE=DATE:20220605
+DTEND;VALUE=DATE:20220610
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains between Southern Cross and Traralgon stations each night from Sunday 5 June to Thursday 9 June. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8296\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions\n\n
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Southern Cross and Traralgon stations each night from Sunday 5 June to Thursday 9 June. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8296<br > <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions<br><br>
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T043947Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220605T235226Z
+UID:eI13941376@addevent.com
+DTSTART;VALUE=DATE:20220619
+DTEND;VALUE=DATE:20220624
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains between Southern Cross and Traralgon stations each night from Sunday 19 June to Thursday 23 June.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8297\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Southern Cross and Traralgon stations each night from Sunday 19 June to Thursday 23 June.<br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8297<br > <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T043947Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220610T092509Z
+UID:tj13986708@addevent.com
+DTSTART;VALUE=DATE:20220625
+DTEND;VALUE=DATE:20220719
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains from Saturday 25 June to Monday 18 July:\n- between Traralgon and Bairnsdale stations from Saturday 2t to Saturday 2 July.\n- between Southern Cross and Bairnsdale stations on Sunday 3 July.\n- between Traralgon and Bairnsdale stations from Monday 4 July to Friday 8 July.\n- between Southern Cross and Bairnsdale stations from Saturday 9 July and Sunday 10 July.\n- between Traralgon and Bairnsdale stations Monday 11 July to Monday 18 July.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8281\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains from Saturday 25 June to Monday 18 July:<br>- between Traralgon and Bairnsdale stations from Saturday 2t to Saturday 2 July.<br>- between Southern Cross and Bairnsdale stations on Sunday 3 July.<br>- between Traralgon and Bairnsdale stations from Monday 4 July to Friday 8 July.<br>- between Southern Cross and Bairnsdale stations from Saturday 9 July and Sunday 10 July.<br>- between Traralgon and Bairnsdale stations Monday 11 July to Monday 18 July.<br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8281<br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross/Traralgon and Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T043954Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220605T235423Z
+UID:tr13941382@addevent.com
+DTSTART;VALUE=DATE:20220626
+DTEND;VALUE=DATE:20220701
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains between Southern Cross and Pakenham stations each night from Sunday 26 June to Thursday 30 June.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8298\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Southern Cross and Pakenham stations each night from Sunday 26 June to Thursday 30 June.<br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8298<br > <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T043947Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220605T234927Z
+UID:bW14263932@addevent.com
+DTSTART;VALUE=DATE:20220703
+DTEND;VALUE=DATE:20220704
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains between Southern Cross and Pakenham stations on Sunday 3 July. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8492\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions\n\n
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Southern Cross and Pakenham stations on Sunday 3 July. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8492<br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions<br><br>
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:2
+LAST-MODIFIED:20230714T044732Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220605T234927Z
+UID:dk14264151@addevent.com
+DTSTART;VALUE=DATE:20220704
+DTEND;VALUE=DATE:20220708
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace evening trains between Southern Cross and Traralgon stations from Monday 4 July to Thursday 7 July. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8494\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions\n\n
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains between Southern Cross and Traralgon stations from Monday 4 July to Thursday 7 July. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8494<br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions<br><br>
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T044732Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220610T092509Z
+UID:hO14360722@addevent.com
+DTSTART;VALUE=DATE:20220711
+DTEND;VALUE=DATE:20220715
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains between Southern Cross and Traralgon stations from Monday 11 July to Thursday 14 July:\n\n\n• From Southern Cross Station\, 8pm to last train each night.\n• From Traralgon Station\, 6.30pm to last train each night.\n\nCoaches will not stop at Flinders Street\, Richmond or Clayton stations.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8576\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Southern Cross and Traralgon stations from Monday 11 July to Thursday 14 July:<br ><ul><li>From Southern Cross Station, 8pm to last train each night.</li><li>From Traralgon Station, 6.30pm to last train each night.</li></ul>Coaches will not stop at Flinders Street, Richmond or Clayton stations.<br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8576<br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T044749Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220610T092509Z
+UID:uW14360786@addevent.com
+DTSTART;VALUE=DATE:20220716
+DTEND;VALUE=DATE:20220718
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains between Saturday 16 July and Sunday 17 July.\n\nFrom Southern Cross Station:\n• Saturday 16 July between Southern Cross and Pakenham stations\, 9pm to 11.59pm.\n• The 11.59pm train on Saturday 16 July between Southern Cross and Traralgon stations.\n• Sunday 17 July between Southern Cross and Pakenham\, first train to 7pm.\n• Sunday 17 July between Southern Cross and Traralgon\, 7pm to last train.\nFrom Traralgon Station:\n• The 8.20pm train on Saturday 16 July between Pakenham and Southern Cross stations.\n• Sunday 17 July between Pakenham and Southern Cross stations.\nFor more information visit... --- Event details: https://www.addevent.com/event/uW14360786
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Saturday 16 July and Sunday 17 July.<br><br >From Southern Cross Station:<br><ul><li>Saturday 16 July between Southern Cross and Pakenham stations, 9pm to 11.59pm.</li><li>The 11.59pm train on Saturday 16 July between Southern Cross and Traralgon stations.</li><li>Sunday 17 July between Southern Cross and Pakenham, first train to 7pm.</li><li>Sunday 17 July between Southern Cross and Traralgon, 7pm to last train.</li></ul>From Traralgon Station:<br><ul><li>The 8.20pm train on Saturday 16 July between Pakenham and Southern Cross stations.</li><li>Sunday 17 July between Pakenham and Southern Cross stations.</li></ul>For more information visit... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/uW14360786
+LOCATION:Between Southern Cross and Pakenham/Traralgon stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T044749Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220610T092509Z
+UID:Bp14360758@addevent.com
+DTSTART;VALUE=DATE:20220718
+DTEND;VALUE=DATE:20220722
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains between Southern Cross and Traralgon stations Monday 18 July to Thursday 21 July:\n\n\n• From Southern Cross Station\, 8pm to last train.\n• From Traralgon Station\, 6.30pm to last train.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8580\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Southern Cross and Traralgon stations Monday 18 July to Thursday 21 July:<br ><ul><li>From Southern Cross Station, 8pm to last train.</li><li>From Traralgon Station, 6.30pm to last train.</li></ul>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8580<br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T044749Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220601T055338Z
+UID:mF13877172@addevent.com
+DTSTART;VALUE=DATE:20220725
+DTEND;VALUE=DATE:20220806
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains from Saturday 25 June to Sunday 7 August:\n• between Traralgon and Bairnsdale stations from Monday 11 to Saturday 16 July.\n• between Southern Cross and Bairnsdale stations on Sunday 17 July.\n• between Traralgon and Bairnsdale stations Monday 18 to Friday 22 July.\n• between Southern Cross and Bairnsdale stations on Saturday 23 and Sunday 24 July.\n• between Traralgon and Bairnsdale stations Monday 25 and Tuesday 26 July.\n• between Southern Cross and Bairnsdale from Wednesday 27 July to Sunday 7 August.\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8281\n \nFor more information on... --- Event details: https://www.addevent.com/event/mF13877172
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains from Saturday 25 June to Sunday 7 August:<br ><ul><li>between Traralgon and Bairnsdale stations from Monday 11 to Saturday 16 July.</li><li>between Southern Cross and Bairnsdale stations on Sunday 17 July.</li><li>between Traralgon and Bairnsdale stations Monday 18 to Friday 22 July.</li><li>between Southern Cross and Bairnsdale stations on Saturday 23 and Sunday 24 July.</li><li>between Traralgon and Bairnsdale stations Monday 25 and Tuesday 26 July.</li><li>between Southern Cross and Bairnsdale from Wednesday 27 July to Sunday 7 August.</li></ul>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8281<br> <br>For more... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/mF13877172
+LOCATION:Between Southern Cross/Traralgon and Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T043940Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220718T005216Z
+UID:Bu14436971@addevent.com
+DTSTART;VALUE=DATE:20220807
+DTEND;VALUE=DATE:20220810
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace evening trains between Southern Cross and Pakenham stations from Sunday 7 August to Tuesday 9 August. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8590\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains between Southern Cross and Pakenham stations from Sunday 7 August to Tuesday 9 August. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8590<br ><br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T044800Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220812T021416Z
+UID:ay14668449@addevent.com
+DTSTART;VALUE=DATE:20220904
+DTEND;VALUE=DATE:20220909
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace evening trains between Southern Cross and Pakenham stations from Sunday 4 September to Thursday 8 September. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8875\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions\n\n
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains between Southern Cross and Pakenham stations from Sunday 4 September to Thursday 8 September. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8875<br ><br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions<br><br>
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T044833Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220815T015131Z
+UID:my14687051@addevent.com
+DTSTART;VALUE=DATE:20220911
+DTEND;VALUE=DATE:20220916
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace evening trains between Southern Cross and Traralgon stations from Sunday 11 September to Thursday 15 September. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8888\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains between Southern Cross and Traralgon stations from Sunday 11 September to Thursday 15 September. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8888<br ><br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T044837Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220826T071601Z
+UID:OJ14791854@addevent.com
+DTSTART;VALUE=DATE:20220914
+DTEND;VALUE=DATE:20220919
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains between Southern Cross and Bairnsdale stations from 10pm\, Wednesday 14 September to last train\, Sunday 18 September. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8742\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions\n\n
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Southern Cross and Bairnsdale stations from 10pm, Wednesday 14 September to last train, Sunday 18 September. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8742<br ><br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions<br><br>
+LOCATION:Between Southern Cross and Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T044854Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220818T014228Z
+UID:Io14716975@addevent.com
+DTSTART;VALUE=DATE:20220919
+DTEND;VALUE=DATE:20220923
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace evening trains between Southern Cross and Pakenham stations from Monday 19 September to Thursday 22 September. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8917\n\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains between Southern Cross and Pakenham stations from Monday 19 September to Thursday 22 September. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=8917<br ><br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T044841Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220928T003016Z
+UID:dg15072296@addevent.com
+DTSTART;TZID=Australia/Melbourne:20221002T000000
+DTEND;TZID=Australia/Melbourne:20221012T234500
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace some trains between Southern Cross and Pakenham/Traralgon stations from Sunday 2 October to Wednesday 12 October. 
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace some trains between Southern Cross and Pakenham/Traralgon stations from Sunday 2 October to Wednesday 12 October. 
+LOCATION:Southern Cross and Pakenham/Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T044958Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221010T044035Z
+UID:EH15220522@addevent.com
+DTSTART;TZID=Australia/Melbourne:20221105T060000
+DTEND;TZID=Australia/Melbourne:20221113T233000
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace trains between Southern Cross and Bairnsdale stations from Saturday 5 November to Sunday 13 November. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&project=&type=&subtype=&place=&searchedPlace=&disruption=8746&ordering=-priority%2C-updated_on&zoom=8&lat=-38.02781058481231&lng=146.29006935 \n\nFor more information on Victoria's Big Build visit
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Southern Cross and Bairnsdale stations from Saturday 5 November to Sunday 13 November. <br><br>For more information visit <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&project=&type=&subtype=&place=&searchedPlace=&disruption=8746&ordering=-priority%2C-updated_on&zoom=8&lat=-38.02781058481231&lng=146.29006935">https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&project=&type=&subtype=&place=&searchedPlace=&disruption=8746&ordering=-priority%2C-updated_on&zoom=8&lat=-38.02781058481231&lng=146.29006935</a> <br><br >For more information on Victoria's Big Build visit
+LOCATION:Between Southern Cross and Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T045020Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221010T044235Z
+UID:GO15220524@addevent.com
+DTSTART;VALUE=DATE:20221120
+DTEND;VALUE=DATE:20221121
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace trains between Southern Cross and Pakenham stations on Sunday 20 November.\n\nFor more information visit
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Southern Cross and Pakenham stations on Sunday 20 November.<br><br>For more information visit
+LOCATION:between Southern Cross and Pakenham stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T045020Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221010T043835Z
+UID:Va15220519@addevent.com
+DTSTART;TZID=Australia/Melbourne:20221121T060000
+DTEND;TZID=Australia/Melbourne:20221124T233000
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace evening trains between Southern Cross and Pakenham stations from Monday 21 November to Thursday 24 November. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&project=&type=&subtype=&place=&searchedPlace=&disruption=9251&ordering=-priority%2C-updated_on&zoom=11&lat=-37.949576567159966&lng=145.21945195\n\nFor more information on Victoria's Big Build visit
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains between Southern Cross and Pakenham stations from Monday 21 November to Thursday 24 November. <br><br>For more information visit <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&project=&type=&subtype=&place=&searchedPlace=&disruption=9251&ordering=-priority%2C-updated_on&zoom=11&lat=-37.949576567159966&lng=145.21945195">https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&project=&type=&subtype=&place=&searchedPlace=&disruption=9251&ordering=-priority%2C-updated_on&zoom=11&lat=-37.949576567159966&lng=145.21945195</a><br><br >For more information on Victoria's Big Build visit
+LOCATION:Between Southern Cross and Pakenham Stations
+SEQUENCE:0
+LAST-MODIFIED:20230714T045020Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221109T052138Z
+UID:Tf15502315@addevent.com
+DTSTART;TZID=Australia/Melbourne:20221128T203000
+DTEND;TZID=Australia/Melbourne:20221201T234500
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace evening trains between Southern Cross and Pakenham stations from Monday 28 November to Thursday 1 December. 
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains between Southern Cross and Pakenham stations from Monday 28 November to Thursday 1 December. 
+SEQUENCE:0
+LAST-MODIFIED:20230714T045107Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221121T041004Z
+UID:Tk15584679@addevent.com
+DTSTART;TZID=Australia/Melbourne:20221202T200000
+DTEND;TZID=Australia/Melbourne:20221204T000000
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace trains on the Gippsland Line between Southern Cross\, Traralgon and Bairnsdale from 9.30pm\, Friday 2 December to last train\, Sunday 4 December. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=9547\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains on the Gippsland Line between Southern Cross, Traralgon and Bairnsdale from 9.30pm, Friday 2 December to last train, Sunday 4 December. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=9547<br >For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+SEQUENCE:0
+LAST-MODIFIED:20230714T045118Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221215T034949Z
+UID:hF15755061@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230101T180000
+DTEND;TZID=Australia/Melbourne:20230103T204500
+SUMMARY:Gippsland Line - coaches replace evening trains
+DESCRIPTION:Coaches replace some evening trains between Southern Cross and Traralgon/Bairnsdale stations from Sunday 1 to Tuesday 3 January.\n\nSunday 1 January:\n• The 9.27pm train between Southern Cross and Traralgon stations.\nMonday 2 January:\n• Between Southern Cross and Traralgon stations\, 9pm to last train.\n• The 8.20pm train between Traralgon and Southern Cross stations.\nTuesday 3 January\n• Between Southern Cross and Traralgon stations\, 8pm to last train.\n• Between Traralgon and Southern Cross stations\, 6.30pm to last train.\n• The 6.06pm train from Bairnsdale Station between Traralgon to Southern Cross station.\nFor more information visit... --- Event details: https://www.addevent.com/event/hF15755061
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace some evening trains between Southern Cross and Traralgon/Bairnsdale stations from Sunday 1 to Tuesday 3 January.<br><br>Sunday 1 January:<br><ul><li>The 9.27pm train between Southern Cross and Traralgon stations.</li></ul>Monday 2 January:<br><ul><li>Between Southern Cross and Traralgon stations, 9pm to last train.</li><li>The 8.20pm train between Traralgon and Southern Cross stations.</li></ul>Tuesday 3 January<br><ul><li>Between Southern Cross and Traralgon stations, 8pm to last train.</li><li>Between Traralgon and Southern Cross stations, 6.30pm to last train.</li><li>The 6.06pm train from Bairnsdale Station between Traralgon to Southern Cross station.</li></ul>For more... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/hF15755061
+SEQUENCE:1
+LAST-MODIFIED:20230714T045151Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221215T034949Z
+UID:fR15864824@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230201T180000
+DTEND;TZID=Australia/Melbourne:20230202T000000
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace some evening trains between Southern Cross and Traralgon stations on Wednesday 1 February:\n\n• From Southern Cross Station between Southern Cross and Traralgon stations\, 8pm to last train.\n• From Traralgon Station between Traralgon and Southern Cross stations\, 6.30pm to last train.\n• The 6.06pm train from Bairnsdale Station between Traralgon and Southern Cross stations.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=\n9846\nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace some evening trains between Southern Cross and Traralgon stations on Wednesday 1 February:<br><ul><li>From Southern Cross Station between Southern Cross and Traralgon stations, 8pm to last train.</li><li>From Traralgon Station between Traralgon and Southern Cross stations, 6.30pm to last train.</li><li>The 6.06pm train from Bairnsdale Station between Traralgon and Southern Cross stations.</li></ul>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=<br>9846<br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:4
+LAST-MODIFIED:20230714T045204Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230202T001626Z
+UID:Ac16074372@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230204T000000
+DTEND;TZID=Australia/Melbourne:20230204T234500
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace trains between Southern Cross\, Traralgon and Bairnsdale from Saturday 4 February to last train\, Sunday 5 February. 
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains between Southern Cross, Traralgon and Bairnsdale from Saturday 4 February to last train, Sunday 5 February. 
+SEQUENCE:0
+LAST-MODIFIED:20230714T045233Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230201T222844Z
+UID:Ar16073342@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230210T000000
+DTEND;TZID=Australia/Melbourne:20230215T234500
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:Coaches replace trains from Friday 10 February to Wednesday 15 February.\nFriday 10 February:\n• From Southern Cross Station between Southern Cross to Pakenham stations\, 8pm to last train.\n• From Traralgon Station between Traralgon and Southern Cross stations\, 6.30pm to last train.\n• The 6.06pm train from Bairnsdale Station between Pakenham and Southern Cross stations.\nSaturday 11 and Sunday 12 February:\n• Between Southern Cross and Pakenham stations\, first to last train.\nMonday 13 to Wednesday 15 February:\n• From Southern Cross Station between Southern Cross to Pakenham stations\, 8pm to last train.\nFrom Traralgon Station between Traralgon and... --- Event details: https://www.addevent.com/event/Ar16073342
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains from Friday 10 February to Wednesday 15 February.<br >Friday 10 February:<br><ul><li>From Southern Cross Station between Southern Cross to Pakenham stations, 8pm to last train.</li><li>From Traralgon Station between Traralgon and Southern Cross stations, 6.30pm to last train.</li><li>The 6.06pm train from Bairnsdale Station between Pakenham and Southern Cross stations.</li></ul>Saturday 11 and Sunday 12 February:<br><ul><li>Between Southern Cross and Pakenham stations, first to last train.</li></ul>Monday 13 to Wednesday 15 February:<br><ul><li>From Southern Cross Station between Southern Cross to Pakenham stations, 8pm to last train.</li><li>From Traralgon Station... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/Ar16073342
+SEQUENCE:0
+LAST-MODIFIED:20230714T045233Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015210Z
+UID:Gq16165228@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230220T201500
+DTEND;TZID=Australia/Melbourne:20230223T234500
+SUMMARY:Gippsland line - coaches replace trains
+DESCRIPTION:Coaches replace trains on the Gippsland Line between Southern Cross and Pakenham stations from 8.30pm each night from Monday 20 February to Thursday 23 February. 
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains on the Gippsland Line between Southern Cross and Pakenham stations from 8.30pm each night from Monday 20 February to Thursday 23 February. 
+SEQUENCE:0
+LAST-MODIFIED:20230714T045251Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:hy16165225@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230227T201500
+DTEND;TZID=Australia/Melbourne:20230301T234500
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace trains on the Gippsland Line between Southern Cross and Traralgon stations from 8.30pm to last train each night from Monday 27 February to Wednesday 1 March. 
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains on the Gippsland Line between Southern Cross and Traralgon stations from 8.30pm to last train each night from Monday 27 February to Wednesday 1 March. 
+SEQUENCE:0
+LAST-MODIFIED:20230714T045251Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:XD16297455@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230305T001500
+DTEND;TZID=Australia/Melbourne:20230305T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace trains on the Gippsland Line between Southern Cross and Pakenham stations on Sunday 5 March.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10130\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions\n\n
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains on the Gippsland Line between Southern Cross and Pakenham stations on Sunday 5 March.<br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10130<br > <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions<br><br>
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T045308Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:ZN16297725@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230306T001500
+DTEND;TZID=Australia/Melbourne:20230309T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace evening trains between Southern Cross and Traralgon stations from Monday 6 March to Thursday 9 March. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10131\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains between Southern Cross and Traralgon stations from Monday 6 March to Thursday 9 March. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10131<br > <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T045308Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:rj16320998@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230313T001500
+DTEND;TZID=Australia/Melbourne:20230316T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace evening trains between Southern Cross and Traralgon stations each night from Monday 13 March to Thursday 16 March. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10132\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains between Southern Cross and Traralgon stations each night from Monday 13 March to Thursday 16 March. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10132<br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:2
+LAST-MODIFIED:20230714T045311Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:ut16336288@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230320T000000
+DTEND;TZID=Australia/Melbourne:20230323T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace evening trains between Southern Cross and Pakenham stations from Monday 20 March to Thursday 23 March. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10090\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains between Southern Cross and Pakenham stations from Monday 20 March to Thursday 23 March. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10090<br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T045315Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:gj16413208@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230403T000000
+DTEND;TZID=Australia/Melbourne:20230406T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace evening trains between Southern Cross and Traralgon stations from Monday 3 April to Thursday 6 April. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10106\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains between Southern Cross and Traralgon stations from Monday 3 April to Thursday 6 April. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10106<br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T045329Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:vV16413229@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230409T000000
+DTEND;TZID=Australia/Melbourne:20230412T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace evening trains between Southern Cross and Pakenham stations from Sunday 9 April to Thursday 12 April. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10090\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains between Southern Cross and Pakenham stations from Sunday 9 April to Thursday 12 April. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10090<br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T045329Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:HE16413238@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230416T000000
+DTEND;TZID=Australia/Melbourne:20230420T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace evening trains between Southern Cross and Pakenham stations from Sunday 16 April to Thursday 20 April. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10105\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains between Southern Cross and Pakenham stations from Sunday 16 April to Thursday 20 April. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10105<br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T045329Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:JG16413262@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230424T000000
+DTEND;TZID=Australia/Melbourne:20230427T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace trains each night from Monday 24 April to Thursday27 April.\nFrom Southern Cross Station:\n\n• Between Southern Cross and Traralgon stations from Monday 24 April to Wednesday 26 April.\n• Between Southern Cross and Pakenham stations on Thursday 27 April.\n\nTo Southern Cross Station:\n\n• Between Traralgon and Southern Cross stations from Monday 24 April to Thursday 27 April.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10525 \n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains each night from Monday 24 April to Thursday27 April.<br >From Southern Cross Station:<br><ul><li>Between Southern Cross and Traralgon stations from Monday 24 April to Wednesday 26 April.</li><li>Between Southern Cross and Pakenham stations on Thursday 27 April.</li></ul>To Southern Cross Station:<br><ul><li>Between Traralgon and Southern Cross stations from Monday 24 April to Thursday 27 April.</li></ul><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10525 <br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:2
+LAST-MODIFIED:20230714T045329Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:Ka16413268@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230519T000000
+DTEND;TZID=Australia/Melbourne:20230521T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace evening trains between Southern Cross and Pakenham stations from Friday 19 May to Sunday 21 May. \n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10117\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains between Southern Cross and Pakenham stations from Friday 19 May to Sunday 21 May. <br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10117<br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T045329Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:hD16912505@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230526T000000
+DTEND;TZID=Australia/Melbourne:20230625T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace trains on the Gippsland Line between Southern Cross and Pakenham stations from Friday 26 May to Tuesday 30 May.\n\nCoaches replace trains on the Gippsland Line between Southern Cross and Bairnsdale stations Friday 2 June to Sunday 25 June.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10126 \n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains on the Gippsland Line between Southern Cross and Pakenham stations from Friday 26 May to Tuesday 30 May.<br><br >Coaches replace trains on the Gippsland Line between Southern Cross and Bairnsdale stations Friday 2 June to Sunday 25 June.<br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10126 <br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20230714T045432Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:BK17131904@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230526T000000
+DTEND;TZID=Australia/Melbourne:20230530T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace trains on the Gippsland Line between Southern Cross and Pakenham stations from Friday 26 May to Tuesday 30 May.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10126 \n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains on the Gippsland Line between Southern Cross and Pakenham stations from Friday 26 May to Tuesday 30 May.<br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=10126 <br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:1
+LAST-MODIFIED:20240719T050924Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:Wx17547056@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230603T000000
+DTEND;TZID=Australia/Melbourne:20230625T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace trains on the Gippsland Line between Southern Cross and Bairnsdale stations from Saturday 3 June to Sunday 25 June.\n\nReplacement coaches will not stop at Flinders Street\, Richmond\, Caulfield\, Clayton\, Dandenong and Berwick stations.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=11156\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains on the Gippsland Line between Southern Cross and Bairnsdale stations from Saturday 3 June to Sunday 25 June.<br><br >Replacement coaches will not stop at Flinders Street, Richmond, Caulfield, Clayton, Dandenong and Berwick stations.<br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=11156<br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20240719T050454Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:OZ17786643@addevent.com
+DTSTART;VALUE=DATE:20230626
+DTEND;VALUE=DATE:20230725
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace Gippsland Line trains between Bairnsdale and Traralgon from Monday 26 June to Monday 24 July.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=11038\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace Gippsland Line trains between Bairnsdale and Traralgon from Monday 26 June to Monday 24 July.<br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=11038<br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Bairnsdale and Traralgon stations
+SEQUENCE:2
+LAST-MODIFIED:20240719T050235Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:Xw17369300@addevent.com
+DTSTART;TZID=Australia/Melbourne:20230626T180000
+DTEND;TZID=Australia/Melbourne:20230627T115900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace trains on the Gippsland Line at night between Southern Cross and Pakenham on Monday\, 26 June.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=11001\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains on the Gippsland Line at night between Southern Cross and Pakenham on Monday, 26 June.<br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=11001<br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:2
+LAST-MODIFIED:20240719T050634Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230214T015125Z
+UID:jm17561111@addevent.com
+DTSTART;VALUE=DATE:20230726
+DTEND;VALUE=DATE:20230803
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace evening V/Line services between Southern Cross and Pakenham stations from Wednesday 26 July to Wednesday 2 August.\n\nFor more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=11166\n \nFor more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening V/Line services between Southern Cross and Pakenham stations from Wednesday 26 July to Wednesday 2 August.<br><br>For more information visit https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=11166<br> <br>For more information on Victoria's Big Build visit https://bigbuild.vic.gov.au/disruptions
+LOCATION:Between Southern Cross and Pakenham stations
+SEQUENCE:2
+LAST-MODIFIED:20240719T050444Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230725T032243Z
+UID:gK18134624@addevent.com
+DTSTART;VALUE=DATE:20230807
+DTEND;VALUE=DATE:20230817
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace some trains from Monday 7 August to Wednesday 16 August.\nMonday 7 August to Wednesday 9 August:\n• From Southern Cross Station - between Southern Cross and Pakenham stations\, 8pm to last train. Trains will run from Pakenham to Traralgon stations.\n• From Traralgon Station - between Traralgon and Southern Cross stations for the entire journey\, 6.30pm to last train.\n• From Bairnsdale Station- the 6.06pm train between Pakenham to Southern Cross stations.\nFriday 11 August:\n• From Southern Cross Station - between Southern Cross and Traralgon stations\, 8pm to last train.\nFrom Traralgon Station - between Traralgon to Southern Cross stations\,... --- Event details: https://www.addevent.com/event/gK18134624
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace some trains from Monday 7 August to Wednesday 16 August.<br>Monday 7 August to Wednesday 9 August:<br><ul><li>From Southern Cross Station - between Southern Cross and Pakenham stations, 8pm to last train. Trains will run from Pakenham to Traralgon stations.</li><li>From Traralgon Station - between Traralgon and Southern Cross stations for the entire journey, 6.30pm to last train.</li><li>From Bairnsdale Station- the 6.06pm train between Pakenham to Southern Cross stations.</li></ul>Friday 11 August:<br><ul><li>From Southern Cross Station - between Southern Cross and Traralgon stations, 8pm to last train.</li><li>From Traralgon Station - between Traralgon to Southern Cross... <br><br>--- <br>Event details: <br>https://www.addevent.com/event/gK18134624
+SEQUENCE:6
+LAST-MODIFIED:20240719T045920Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230823T005133Z
+UID:HL18560811@addevent.com
+DTSTART;VALUE=DATE:20230821
+DTEND;VALUE=DATE:20230911
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:See details of this disruption https://www.vline.com.au/Service-Changes/Planned-Disruptions/2023/August/Coaches-replace-trains-on-the-Gippsland-Line on the V/Line website.\n\n
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2023/August/Coaches-replace-trains-on-the-Gippsland-Line">details of this disruption</a> on the V/Line website.<br><br>
+LOCATION:Between Southern Cross and Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20240719T045327Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230823T005133Z
+UID:PC18428262@addevent.com
+DTSTART;VALUE=DATE:20230911
+DTEND;VALUE=DATE:20230920
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace some evening Gippsland Line trains for all or part of the journey at various times from Monday 11 to Tuesday 19 September.\n\nCheck the V/Line website https://www.vline.com.au/Service-Changes/Planned-Disruptions/2023/September/Coaches-replace-evening-trains-on-the-Gippsland-Li for further details.\n\n
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace some evening Gippsland Line trains for all or part of the journey at various times from Monday 11 to Tuesday 19 September.<br><br>Check the <a href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2023/September/Coaches-replace-evening-trains-on-the-Gippsland-Li">V/Line website</a> for further details.<br><br>
+SEQUENCE:1
+LAST-MODIFIED:20240719T045558Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230922T005956Z
+UID:OX18750875@addevent.com
+DTSTART;VALUE=DATE:20231005
+DTEND;VALUE=DATE:20231019
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace some Gippsland Line trains for all or part of the journey at various times from Thursday 5 to Wednesday 18 October.\n\nCheck the V/Line website https://www.vline.com.au/Service-Changes/Planned-Disruptions/2023/October/Coaches-replace-some-trains-on-the-Gippsland-Line for further details.
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace some Gippsland Line trains for all or part of the journey at various times from Thursday 5 to Wednesday 18 October.<br><br>Check the <a href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2023/October/Coaches-replace-some-trains-on-the-Gippsland-Line">V/Line website</a> for further details.
+SEQUENCE:0
+LAST-MODIFIED:20240719T045126Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231018T025822Z
+UID:mZ19042671@addevent.com
+DTSTART;TZID=Australia/Melbourne:20231029T203000
+DTEND;TZID=Australia/Melbourne:20231101T125900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace train on the Gippsland line between Southern Cross and Traralgon from 8.30pm each night\, Sunday 29 October to Wednesday 1 November.
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace train on the Gippsland line between Southern Cross and Traralgon from 8.30pm each night, Sunday 29 October to Wednesday 1 November.
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20240719T044423Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231106T013537Z
+UID:Wr19238778@addevent.com
+DTSTART;TZID=Australia/Melbourne:20231112T163000
+DTEND;TZID=Australia/Melbourne:20231123T234500
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace some evening Gippsland Line trains for all or part of the journey at various times from Sunday 12 to Thursday 23 November.\n\nFor further details\, visit the V/Line website. https://www.vline.com.au/Service-Changes/Planned-Disruptions/2023/November/Coaches-replace-some-trains-on-the-Gippsland-Line\n\n
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace some evening Gippsland Line trains for all or part of the journey at various times from Sunday 12 to Thursday 23 November.<br><br>For further details, visit the <a href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2023/November/Coaches-replace-some-trains-on-the-Gippsland-Line">V/Line website.</a><br ><br>
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20240719T044215Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231030T030313Z
+UID:Pc19165823@addevent.com
+DTSTART;TZID=Australia/Melbourne:20231124T010000
+DTEND;TZID=Australia/Melbourne:20231210T234500
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:Coaches replace trains on the Gippsland Line between Southern Cross and Traralgon or Bairnsdale from Friday 24 November to Sunday 10 December.\n\nFor further details\, check the V/Line website https://www.vline.com.au/Service-Changes/Planned-Disruptions/2023/November/Coaches-replace-trains-on-the-Gippsland-Line.
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace trains on the Gippsland Line between Southern Cross and Traralgon or Bairnsdale from Friday 24 November to Sunday 10 December.<br><br>For further details, check the <a href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2023/November/Coaches-replace-trains-on-the-Gippsland-Line">V/Line website</a>.
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:3
+LAST-MODIFIED:20240719T044259Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231211T043015Z
+UID:KV19576897@addevent.com
+DTSTART;TZID=Australia/Melbourne:20231221T180000
+DTEND;TZID=Australia/Melbourne:20231221T235900
+SUMMARY:Bairnsdale and Traralgon lines
+DESCRIPTION:Coaches replace evening trains between Southern Cross and Traralgon/Bairnsdale stations on 21 December.\n\nFor further details\, check the PTV website. https://www.ptv.vic.gov.au/disruptions/disruptions-information/article/bairnsdale-and-traralgon-lines-coaches-replace-evening-trains-on-thursday-21-december-2023\n\n
+X-ALT-DESC;FMTTYPE=text/html:Coaches replace evening trains between Southern Cross and Traralgon/Bairnsdale stations on 21 December.<br><br >For further details, check the <a href="https://www.ptv.vic.gov.au/disruptions/disruptions-information/article/bairnsdale-and-traralgon-lines-coaches-replace-evening-trains-on-thursday-21-december-2023">PTV website.</a><br><br>
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20240719T043811Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240122T235059Z
+UID:ui19979370@addevent.com
+DTSTART;TZID=Australia/Melbourne:20240128T211500
+DTEND;TZID=Australia/Melbourne:20240214T235900
+SUMMARY:Gippsland Line - coaches replace evening trains
+DESCRIPTION:See details of this disruption on the V/Line website https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/January/Coaches-replace-some-trains-on-the-Gippsland-Line.
+X-ALT-DESC;FMTTYPE=text/html:See details of this disruption on the <a href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/January/Coaches-replace-some-trains-on-the-Gippsland-Line">V/Line website</a>.
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:2
+LAST-MODIFIED:20240719T043300Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240317T222545Z
+UID:hX20678156@addevent.com
+DTSTART;TZID=Australia/Melbourne:20240309T090000
+DTEND;TZID=Australia/Melbourne:20240327T234500
+SUMMARY:Gippsland Line - coaches replace evening trains
+DESCRIPTION:See\ndetails of this disruption on the V/Line website https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/March/Coaches-replace-some-trains-on-the-Gippsland-Line.
+X-ALT-DESC;FMTTYPE=text/html:See<br />details of this disruption on the <a href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/March/Coaches-replace-some-trains-on-the-Gippsland-Line">V/Line website</a>.
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20240719T042519Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240424T003414Z
+UID:In21370293@addevent.com
+DTSTART;TZID=Australia/Melbourne:20240421T210000
+DTEND;TZID=Australia/Melbourne:20240501T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:See details of this disruption on the V/Line website https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/April/Service-changes-on-the-Gippsland-Line.
+X-ALT-DESC;FMTTYPE=text/html:See details of this disruption on the <a href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/April/Service-changes-on-the-Gippsland-Line">V/Line website</a>.
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:0
+LAST-MODIFIED:20240719T041300Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240409T060113Z
+UID:Ej21179386@addevent.com
+DTSTART;TZID=Australia/Melbourne:20240503T180000
+DTEND;TZID=Australia/Melbourne:20240618T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:See\ndetails of this disruption on the V/Line website https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/May/Coaches-replace-trains-on-the-Gippsland-Line.
+X-ALT-DESC;FMTTYPE=text/html:See<br>details of this disruption on the <a href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/May/Coaches-replace-trains-on-the-Gippsland-Line">V/Line website</a>.
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20240719T041535Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240625T010442Z
+UID:Yr22195572@addevent.com
+DTSTART;TZID=Australia/Melbourne:20240625T190000
+DTEND;TZID=Australia/Melbourne:20240703T200000
+SUMMARY:Gippsland line - coaches replace trains
+DESCRIPTION:See\ndetails of this disruption on the V/Line website https://www.vline.com.au/Timetables/Service-changes.
+X-ALT-DESC;FMTTYPE=text/html:See<br />details of this disruption on the <a href="https://www.vline.com.au/Timetables/Service-changes">V/Line website</a>.
+LOCATION:Between Southern Cross and Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20240719T004336Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240704T072543Z
+UID:Zv22274311@addevent.com
+DTSTART;TZID=Australia/Melbourne:20240712T235900
+DTEND;TZID=Australia/Melbourne:20240717T144400
+SUMMARY:Gippsland Line - coaches replace some trains
+DESCRIPTION:See details of this disruption on the V/Line website https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/July/Coaches-replace-some-Gippsland-Line-trains.
+X-ALT-DESC;FMTTYPE=text/html:See details of this disruption on the <a data-cke-saved-href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/July/Coaches-replace-some-Gippsland-Line-trains" href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/July/Coaches-replace-some-Gippsland-Line-trains" >V/Line website</a>.
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20240719T004214Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T045713Z
+UID:bi22603499@addevent.com
+DTSTART;VALUE=DATE:20240830
+DTEND;VALUE=DATE:20240902
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:See details of this disruption on the V/Line website https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/August/Coaches-replace-some-Gippsland-Line-trains.
+X-ALT-DESC;FMTTYPE=text/html:See details of this disruption on the <a href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/August/Coaches-replace-some-Gippsland-Line-trains" >V/Line website</a>.
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:2
+LAST-MODIFIED:20240823T074922Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T045258Z
+UID:dU22603496@addevent.com
+DTSTART;TZID=Australia/Melbourne:20240908T210000
+DTEND;TZID=Australia/Melbourne:20240911T235900
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:See details of this disruption on the V/Line website https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/September/Coaches-replace-evening-trains-on-the-Gippsland-Li.
+X-ALT-DESC;FMTTYPE=text/html:See details of this disruption on the <a data-cke-saved-href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/September/Coaches-replace-evening-trains-on-the-Gippsland-Li" href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/September/Coaches-replace-evening-trains-on-the-Gippsland-Li" >V/Line website</a>.
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20240815T045258Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240822T064407Z
+UID:jt22674415@addevent.com
+DTSTART;TZID=Australia/Melbourne:20240920T223000
+DTEND;TZID=Australia/Melbourne:20240922T233000
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:See details of this disruption on the V/Line website https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/September/Coaches-replace-some-Gippsland-Line-trains.
+X-ALT-DESC;FMTTYPE=text/html:See details of this disruption on the <a data-cke-saved-href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/September/Coaches-replace-some-Gippsland-Line-trains" href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/September/Coaches-replace-some-Gippsland-Line-trains">V/Line website</a>.
+LOCATION:Between Southern Cross\, Traralgon and Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20240822T064542Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241004T061250Z
+UID:Wj23340032@addevent.com
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241007
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:See details of this disruption on the Victoria’s Big Build website https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&disruption=14752&lat=-37.94936881608441&lng=145.218963831606&ordering=-priority%2C-updated_on&place=&project=&searchedPlace=&subtype=&type=&zoom=11.
+X-ALT-DESC;FMTTYPE=text/html:See details of this disruption on the <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&disruption=14752&lat=-37.94936881608441&lng=145.218963831606&ordering=-priority%2C-updated_on&place=&project=&searchedPlace=&subtype=&type=&zoom=11">Victoria’s Big Build website</a>.
+LOCATION:Between Southern Cross and East Pakenham stations
+SEQUENCE:1
+LAST-MODIFIED:20241004T061412Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240925T033321Z
+UID:Tl23143991@addevent.com
+DTSTART;TZID=Australia/Melbourne:20241013T210000
+DTEND;TZID=Australia/Melbourne:20241016T235900
+SUMMARY:Gippsland Line - coaches replace evening trains
+DESCRIPTION:See details of this disruption on the V/Line website https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/September/Coaches-replace-evening-trains-on-the-Gippsland-Li.
+X-ALT-DESC;FMTTYPE=text/html:See details of this disruption on the <a data-cke-saved-href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/September/Coaches-replace-evening-trains-on-the-Gippsland-Li" href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/October/Coaches-replace-evening-trains-on-the-Gippsland-Li">V/Line website</a>.
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20240925T033451Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240823T075339Z
+UID:zl22683566@addevent.com
+DTSTART;VALUE=DATE:20241016
+DTEND;VALUE=DATE:20241031
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:See details of this disruption https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/October/Coaches-replace-Bairnsdale-Line-trains on the V/Line website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/October/Coaches-replace-Bairnsdale-Line-trains">details of this disruption</a> on the V/Line website.
+LOCATION:Between Traralgon and Bairnsdale stations
+SEQUENCE:2
+LAST-MODIFIED:20241023T024921Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241010T004123Z
+UID:yG23442410@addevent.com
+DTSTART;VALUE=DATE:20241023
+DTEND;VALUE=DATE:20241024
+SUMMARY:Gippsland Line - coaches replace evening trains
+DESCRIPTION:See details of this disruption https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/October/Coaches-replace-some-Gippsland-Line-trains-(1) on the V/Line website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/October/Coaches-replace-some-Gippsland-Line-trains-(1)" >details of this disruption</a> on the V/Line website.
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:0
+LAST-MODIFIED:20241010T004123Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241004T061449Z
+UID:wr23340035@addevent.com
+DTSTART;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241028
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:See details of this disruption on the https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&disruption=14752&lat=-37.94936881608441&lng=145.218963831606&ordering=-priority%2C-updated_on&place=&project=&searchedPlace=&subtype=&type=&zoom=11Victoria’s Big Build website https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&disruption=14753&lat=-37.94936881608441&lng=145.218963831606&ordering=-priority%2C-updated_on&place=&project=&searchedPlace=&subtype=&type=&zoom=11.
+X-ALT-DESC;FMTTYPE=text/html:See details of this disruption on the <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&disruption=14752&lat=-37.94936881608441&lng=145.218963831606&ordering=-priority%2C-updated_on&place=&project=&searchedPlace=&subtype=&type=&zoom=11"></a><a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&disruption=14753&lat=-37.94936881608441&lng=145.218963831606&ordering=-priority%2C-updated_on&place=&project=&searchedPlace=&subtype=&type=&zoom=11">Victoria’s Big Build website</a>.
+LOCATION:Between Southern Cross and East Pakenham stations
+SEQUENCE:1
+LAST-MODIFIED:20241004T061628Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241004T061657Z
+UID:Yd23340038@addevent.com
+DTSTART;VALUE=DATE:20241029
+DTEND;VALUE=DATE:20241030
+SUMMARY:Gippsland Line - coaches replace evening trains
+DESCRIPTION:See details of this disruption on the https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&disruption=14752&lat=-37.94936881608441&lng=145.218963831606&ordering=-priority%2C-updated_on&place=&project=&searchedPlace=&subtype=&type=&zoom=11Victoria’s Big Build website https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&disruption=14755&lat=-37.94936881608441&lng=145.218963831606&ordering=-priority%2C-updated_on&place=&project=&searchedPlace=&subtype=&type=&zoom=11.
+X-ALT-DESC;FMTTYPE=text/html:See details of this disruption on the <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&disruption=14752&lat=-37.94936881608441&lng=145.218963831606&ordering=-priority%2C-updated_on&place=&project=&searchedPlace=&subtype=&type=&zoom=11"></a><a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?dateRange=&disruption=14755&lat=-37.94936881608441&lng=145.218963831606&ordering=-priority%2C-updated_on&place=&project=&searchedPlace=&subtype=&type=&zoom=11">Victoria’s Big Build website</a>.
+LOCATION:Between Southern Cross and East Pakenham stations
+SEQUENCE:2
+LAST-MODIFIED:20241010T004518Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241023T225953Z
+UID:CV23630187@addevent.com
+DTSTART;VALUE=DATE:20241104
+DTEND;VALUE=DATE:20241114
+SUMMARY:Gippsland Line - coaches replace trains
+DESCRIPTION:See details of this disruption https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/November/Coaches-replace-some-trains-on-the-Gippsland-Line on the V/Line website.
+X-ALT-DESC;FMTTYPE=text/html:See <a data-cke-saved-href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/November/Coaches-replace-some-trains-on-the-Gippsland-Line" href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/November/Coaches-replace-some-trains-on-the-Gippsland-Line" >details of this disruption</a> on the V/Line website.
+LOCATION:Between Southern Cross\, Traralgon and Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20241023T230047Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T014035Z
+UID:oW23727725@addevent.com
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241202
+SUMMARY:Gippsland Line - coaches replace some evening trains
+DESCRIPTION:See details of this disruption https://www.vline.com.au/Service-Changes/planned-disruptions/2024/November/Coaches-replace-some-trains-on-the-Gippsland-L-(1) on the V/Line website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://www.vline.com.au/Service-Changes/planned-disruptions/2024/November/Coaches-replace-some-trains-on-the-Gippsland-L-(1)">details of this disruption</a> on the V/Line website.
+LOCATION:Between Southern Cross\, Traralgon and Bairnsdale stations
+SEQUENCE:4
+LAST-MODIFIED:20241121T015450Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241121T015154Z
+UID:nS23934573@addevent.com
+DTSTART;VALUE=DATE:20241201
+DTEND;VALUE=DATE:20241205
+SUMMARY:Gippsland Line - coaches replace some evening trains
+DESCRIPTION:See details of this disruption https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/November/Coaches-replace-some-trains-on-the-Gippsland-Line on the V/Line website.
+X-ALT-DESC;FMTTYPE=text/html:See <a data-cke-saved-href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/November/Coaches-replace-some-trains-on-the-Gippsland-Line" href="http://www.vline.com.au/Service-Changes/planned-disruptions/2024/December/Coaches-replace-evening-Gippsland-Line-trains">details of this disruption</a> on the V/Line website.
+LOCATION:Between Southern Cross\, Traralgon and Bairnsdale stations
+SEQUENCE:2
+LAST-MODIFIED:20241121T020220Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241121T020323Z
+UID:mB23934612@addevent.com
+DTSTART;VALUE=DATE:20241213
+DTEND;VALUE=DATE:20241216
+SUMMARY:Gippsland Line - coaches replace some evening trains
+DESCRIPTION:See details of this disruption https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/November/Coaches-replace-some-trains-on-the-Gippsland-Line on the V/Line website.
+X-ALT-DESC;FMTTYPE=text/html:See <a data-cke-saved-href="https://www.vline.com.au/Service-Changes/Planned-Disruptions/2024/November/Coaches-replace-some-trains-on-the-Gippsland-Line" href="https://www.vline.com.au/Service-Changes/planned-disruptions/2024/December/Coaches-replace-Gippsland-Line-trains-for-all-or-p">details of this disruption</a> on the V/Line website.
+LOCATION:Between Southern Cross\, Traralgon and Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20241121T020402Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250114T012848Z
+UID:bP24540377@addevent.com
+DTSTART;VALUE=DATE:20250126
+DTEND;VALUE=DATE:20250130
+SUMMARY:Gippsland Line - coaches replace evening trains
+DESCRIPTION:See details of this disruption https://www.vline.com.au/Service-Changes/planned-disruptions/2025/January/Coaches-replace-evening-trains-on-the-Gippsland-Li on the V/Line website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://www.vline.com.au/Service-Changes/planned-disruptions/2025/January/Coaches-replace-evening-trains-on-the-Gippsland-Li" >details of this disruption</a> on the V/Line website.
+LOCATION:Between Southern Cross\, Traralgon and Bairnsdale stations
+SEQUENCE:1
+LAST-MODIFIED:20250114T012940Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250206T232028Z
+UID:yC24805624@addevent.com
+DTSTART;TZID=Australia/Melbourne:20250210T180000
+DTEND;TZID=Australia/Melbourne:20250212T235900
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:See details of this disruption https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=16388 on the Victoria's Big Build website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=16388">details of this disruption</a> on the Victoria's Big Build website.
+LOCATION:Sections of the line
+SEQUENCE:100
+LAST-MODIFIED:20250310T175808Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250206T232028Z
+UID:hs24805626@addevent.com
+DTSTART;TZID=Australia/Melbourne:20250217T180000
+DTEND;TZID=Australia/Melbourne:20250218T235900
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:See details of this disruption https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=16392 on the Victoria's Big Build website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=16392">details of this disruption</a> on the Victoria's Big Build website.
+LOCATION:Sections of the line
+SEQUENCE:122
+LAST-MODIFIED:20250317T151205Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250206T232028Z
+UID:vR24805625@addevent.com
+DTSTART;TZID=Australia/Melbourne:20250221T180000
+DTEND;TZID=Australia/Melbourne:20250302T235900
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:See details of this disruption https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=16389 on the Victoria's Big Build website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=16389">details of this disruption</a> on the Victoria's Big Build website.
+LOCATION:Sections of the line
+SEQUENCE:134
+LAST-MODIFIED:20250321T134911Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250220T004912Z
+UID:QF24945080@addevent.com
+DTSTART;TZID=Australia/Melbourne:20250316T210000
+DTEND;TZID=Australia/Melbourne:20250320T235900
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:See details of this disruption https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=16562 on the Victoria's Big Build website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=16562">details of this disruption</a> on the Victoria's Big Build website.
+LOCATION:Sections of the line
+SEQUENCE:173
+LAST-MODIFIED:20250416T190523Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250219T092511Z
+UID:yt24934993@addevent.com
+DTSTART;TZID=Australia/Melbourne:20250321T040300
+DTEND;TZID=Australia/Melbourne:20250330T235900
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:See details of this disruption https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=16485 on the Victoria's Big Build website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=16485">details of this disruption</a> on the Victoria's Big Build website.
+LOCATION:Sections of the line
+SEQUENCE:189
+LAST-MODIFIED:20250421T030809Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250221T072611Z
+UID:BO24958668@addevent.com
+DTSTART;TZID=Australia/Melbourne:20250414T000000
+DTEND;TZID=Australia/Melbourne:20250416T235900
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:See details of this disruption https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=16599 on the Victoria's Big Build website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=16599">details of this disruption</a> on the Victoria's Big Build website.
+LOCATION:Between East Pakenham and Southern Cross stations
+SEQUENCE:255
+LAST-MODIFIED:20250513T201704Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250403T031805Z
+UID:hf25396012@addevent.com
+DTSTART;TZID=Australia/Melbourne:20250420T210000
+DTEND;TZID=Australia/Melbourne:20250423T235900
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:See details of this disruption https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=16895 on the Victoria's Big Build website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=16895">details of this disruption</a> on the Victoria's Big Build website.
+LOCATION:Between Southern Cross and Traralgon stations
+SEQUENCE:149
+LAST-MODIFIED:20250520T175810Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250508T134010Z
+UID:JA25694281@addevent.com
+DTSTART;TZID=Australia/Melbourne:20250610T180000
+DTEND;TZID=Australia/Melbourne:20250613T235900
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:See details of this disruption https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=17107 on the Victoria's Big Build website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=17107">details of this disruption</a> on the Victoria's Big Build website.
+LOCATION:Sections of the train line
+SEQUENCE:195
+LAST-MODIFIED:20250710T130514Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250605T064607Z
+UID:tj25889105@addevent.com
+DTSTART;TZID=Australia/Melbourne:20250614T000000
+DTEND;TZID=Australia/Melbourne:20250615T235900
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:See details of this disruption https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=17367 on the Victoria's Big Build website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=17367">details of this disruption</a> on the Victoria's Big Build website.
+LOCATION:Sections of the train line
+SEQUENCE:118
+LAST-MODIFIED:20250713T185607Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250515T040713Z
+UID:DA25742926@addevent.com
+DTSTART;TZID=Australia/Melbourne:20250619T000000
+DTEND;TZID=Australia/Melbourne:20250813T235900
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:See details of this disruption https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=17098 on the Victoria's Big Build website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=17098">details of this disruption</a> on the Victoria's Big Build website.
+LOCATION:Sections of the train line
+SEQUENCE:200
+LAST-MODIFIED:20250718T223409Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250530T075410Z
+UID:zU25848835@addevent.com
+DTSTART;TZID=Australia/Melbourne:20250822T210000
+DTEND;TZID=Australia/Melbourne:20250824T235900
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:See details of this disruption https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=17278 on the Victoria's Big Build website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=17278">details of this disruption</a> on the Victoria's Big Build website.
+LOCATION:Between Southern Cross and Traralgon/Bairnsdale stations
+SEQUENCE:222
+LAST-MODIFIED:20250809T014914Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250804T120216Z
+UID:TV26314480@addevent.com
+DTSTART;TZID=Australia/Melbourne:20250829T180000
+DTEND;TZID=Australia/Melbourne:20250905T235900
+SUMMARY:Gippsland Line - Coaches replace trains
+DESCRIPTION:See details of this disruption https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=17913 on the Victoria's Big Build website.
+X-ALT-DESC;FMTTYPE=text/html:See <a href="https://bigbuild.vic.gov.au/disruptions/disruptions-map?disruption=17913">details of this disruption</a> on the Victoria's Big Build website.
+LOCATION:Between Southern Cross and East Pakenham
+SEQUENCE:15
+LAST-MODIFIED:20250809T014914Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
