@@ -1277,22 +1277,6 @@
         "end": "2021-10-28 23:59:00+1100",
         "id": 6976
     },
-    "Unknown1": {
-        "summary": "Gippsland line - coaches replace trains",
-        "location": "Between Sale and Bairnsdale stations",
-        "description": "Coaches replace trains between Sale and Bairnsdale stations on Sunday 29 November.",
-        "start": "2020-11-29 00:01:00+1100",
-        "end": "2020-11-29 23:59:00+1100",
-        "id": "Unknown1"
-    },
-    "Unknown2": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "Between Sale and Bairnsdale stations",
-        "description": "Coaches replace trains between Sale and Bairnsdale stations from Thursday 3 December to last service on Sunday 6 December.",
-        "start": "2020-12-03 00:01:00+1100",
-        "end": "2020-12-06 23:59:00+1100",
-        "id": "Unknown2"
-    },
     "6938": {
         "summary": "Gippsland Line - Coaches replace trains",
         "location": "Between Southern Cross and Pakenham stations",
@@ -1311,14 +1295,6 @@
         "id": 7032,
         "project": 17
     },
-    "Unknown3": {
-        "summary": "Gippsland Line - Coaches replace trains",
-        "location": "Southern Cross and Pakenham/Traralgon stations",
-        "description": "Coaches replace some trains between Southern Cross and Pakenham/Traralgon stations from Sunday 2 October to Wednesday 12 October.",
-        "start": "2022-10-02 00:00:00+1000",
-        "end": "2022-10-12 23:45:00+1100",
-        "id": "Unknown3"
-    },
     "Unknown4": {
         "summary": "Gippsland Line - coaches replace trains",
         "location": "between Southern Cross and Pakenham stations",
@@ -1334,46 +1310,6 @@
         "start": "2022-11-21 06:00:00+1100",
         "end": "2022-11-24 23:30:00+1100",
         "id": 9251
-    },
-    "Unknown5": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "None",
-        "description": "Coaches replace evening trains between Southern Cross and Pakenham stations from Monday 28 November to Thursday 1 December.",
-        "start": "2022-11-28 20:30:00+1100",
-        "end": "2022-12-01 23:45:00+1100",
-        "id": "Unknown5"
-    },
-    "Unknown6": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "None",
-        "description": "Coaches replace trains between Southern Cross, Traralgon and Bairnsdale from Saturday 4 February to last train, Sunday 5 February.",
-        "start": "2023-02-04 00:00:00+1100",
-        "end": "2023-02-04 23:45:00+1100",
-        "id": "Unknown6"
-    },
-    "Unknowndv7": {
-        "summary": "Gippsland Line - Coaches replace trains",
-        "location": "None",
-        "description": "Coaches replace trains from Friday 10 February to Wednesday 15 February. Friday 10 February: * From Southern Cross Station between Southern Cross to Pakenham stations, 8pm to last train. * From Traralgon Station between Traralgon and Southern Cross stations, 6.30pm to last train. * The 6.06pm train from Bairnsdale Station between Pakenham and Southern Cross stations. Saturday 11 and Sunday 12 February: * Between Southern Cross and Pakenham stations, first to last train. Monday 13 to Wednesday 15 February: * From Southern Cross Station between Southern Cross to Pakenham stations, 8pm to last train. * From Traralgon Station...",
-        "start": "2023-02-10 00:00:00+1100",
-        "end": "2023-02-15 23:45:00+1100",
-        "id": "Unknowndv7"
-    },
-    "Unknown8": {
-        "summary": "Gippsland line - coaches replace trains",
-        "location": "None",
-        "description": "Coaches replace trains on the Gippsland Line between Southern Cross and Pakenham stations from 8.30pm each night from Monday 20 February to Thursday 23 February.",
-        "start": "2023-02-20 20:15:00+1100",
-        "end": "2023-02-23 23:45:00+1100",
-        "id": "Unknown8"
-    },
-    "Unknown9": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "None",
-        "description": "Coaches replace trains on the Gippsland Line between Southern Cross and Traralgon stations from 8.30pm to last train each night from Monday 27 February to Wednesday 1 March.",
-        "start": "2023-02-27 20:15:00+1100",
-        "end": "2023-03-01 23:45:00+1100",
-        "id": "Unknown9"
     },
     "10130": {
         "summary": "Gippsland Line - coaches replace trains",
@@ -1435,62 +1371,6 @@
         "end": "2023-06-25 23:59:00+1000",
         "id": 10126
     },
-    "Unknown10": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "Between Southern Cross and Bairnsdale stations",
-        "description": "",
-        "start": "2023-08-21 00:00:00",
-        "end": "2023-09-11 00:00:00",
-        "id": "Unknown10"
-    },
-    "Unknown11": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "None",
-        "description": "Coaches replace some evening Gippsland Line trains for all or part of the journey at various times from Monday 11 to Tuesday 19 September.",
-        "start": "2023-09-11 00:00:00",
-        "end": "2023-09-20 00:00:00",
-        "id": "Unknown11"
-    },
-    "Unknown12": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "None",
-        "description": "Coaches replace some Gippsland Line trains for all or part of the journey at various times from Thursday 5 to Wednesday 18 October.",
-        "start": "2023-10-05 00:00:00",
-        "end": "2023-10-19 00:00:00",
-        "id": "Unknown12"
-    },
-    "Unknown13": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "Between Southern Cross and Traralgon stations",
-        "description": "Coaches replace train on the Gippsland line between Southern Cross and Traralgon from 8.30pm each night, Sunday 29 October to Wednesday 1 November.",
-        "start": "2023-10-29 20:30:00+1100",
-        "end": "2023-11-01 12:59:00+1100",
-        "id": "Unknown13"
-    },
-    "Unknown14": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "Between Southern Cross and Traralgon/Bairnsdale stations",
-        "description": "Coaches replace some evening Gippsland Line trains for all or part of the journey at various times from Sunday 12 to Thursday 23 November.",
-        "start": "2023-11-12 16:30:00+1100",
-        "end": "2023-11-23 23:45:00+1100",
-        "id": "Unknown14"
-    },
-    "Unknown15": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "Between Southern Cross and Traralgon/Bairnsdale stations",
-        "description": "Coaches replace trains on the Gippsland Line between Southern Cross and Traralgon or Bairnsdale from Friday 24 November to Sunday 10 December.",
-        "start": "2023-11-24 01:00:00+1100",
-        "end": "2023-12-10 23:45:00+1100",
-        "id": "Unknown15"
-    },
-    "Unknown16": {
-        "summary": "Bairnsdale and Traralgon lines",
-        "location": "Between Southern Cross and Traralgon/Bairnsdale stations",
-        "description": "Coaches replace evening trains between Southern Cross and Traralgon/Bairnsdale stations on 21 December.",
-        "start": "2023-12-21 18:00:00+1100",
-        "end": "2023-12-21 23:59:00+1100",
-        "id": "Unknown16"
-    },
     "Unknown17": {
         "summary": "Gippsland Line - coaches replace evening trains",
         "location": "Between Southern Cross and Traralgon/Bairnsdale stations",
@@ -1498,22 +1378,6 @@
         "start": "2024-01-28 21:15:00+1100",
         "end": "2024-02-14 23:59:00+1100",
         "id": "Unknown17"
-    },
-    "Unknown18": {
-        "summary": "Gippsland Line - coaches replace evening trains",
-        "location": "Between Southern Cross and Traralgon/Bairnsdale stations",
-        "description": "",
-        "start": "2024-03-09 09:00:00+1100",
-        "end": "2024-03-27 23:45:00+1100",
-        "id": "Unknown18"
-    },
-    "Unknown19": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "Between Southern Cross and Traralgon stations",
-        "description": "",
-        "start": "2024-04-21 21:00:00+1000",
-        "end": "2024-05-01 23:59:00+1000",
-        "id": "Unknown19"
     },
     "Unknown20": {
         "summary": "Gippsland Line - coaches replace trains",
@@ -1530,102 +1394,6 @@
         "start": "2024-06-25 19:00:00+1000",
         "end": "2024-07-03 20:00:00+1000",
         "id": "Unknown21"
-    },
-    "Unknown22": {
-        "summary": "Gippsland Line - coaches replace some trains",
-        "location": "Between Southern Cross and Traralgon/Bairnsdale stations",
-        "description": "",
-        "start": "2024-07-12 23:59:00+1000",
-        "end": "2024-07-17 14:44:00+1000",
-        "id": "Unknown22"
-    },
-    "Unknown23": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "Between Southern Cross and Traralgon/Bairnsdale stations",
-        "description": "",
-        "start": "2024-08-30 00:00:00",
-        "end": "2024-09-02 00:00:00",
-        "id": "Unknown23"
-    },
-    "Unknown24": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "Between Southern Cross and Traralgon/Bairnsdale stations",
-        "description": "",
-        "start": "2024-09-08 21:00:00+1000",
-        "end": "2024-09-11 23:59:00+1000",
-        "id": "Unknown24"
-    },
-    "Unknown25": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "Between Southern Cross, Traralgon and Bairnsdale stations",
-        "description": "",
-        "start": "2024-09-20 22:30:00+1000",
-        "end": "2024-09-22 23:30:00+1000",
-        "id": "Unknown25"
-    },
-    "Unknown26": {
-        "summary": "Gippsland Line - coaches replace evening trains",
-        "location": "Between Southern Cross and Traralgon/Bairnsdale stations",
-        "description": "",
-        "start": "2024-10-13 21:00:00+1100",
-        "end": "2024-10-16 23:59:00+1100",
-        "id": "Unknown26"
-    },
-    "Unknown27": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "Between Traralgon and Bairnsdale stations",
-        "description": "",
-        "start": "2024-10-16 00:00:00",
-        "end": "2024-10-31 00:00:00",
-        "id": "Unknown27"
-    },
-    "Unknown28": {
-        "summary": "Gippsland Line - coaches replace evening trains",
-        "location": "Between Southern Cross and Traralgon/Bairnsdale stations",
-        "description": "",
-        "start": "2024-10-23 00:00:00",
-        "end": "2024-10-24 00:00:00",
-        "id": "Unknown28"
-    },
-    "Unknown29": {
-        "summary": "Gippsland Line - coaches replace trains",
-        "location": "Between Southern Cross, Traralgon and Bairnsdale stations",
-        "description": "",
-        "start": "2024-11-04 00:00:00",
-        "end": "2024-11-14 00:00:00",
-        "id": "Unknown29"
-    },
-    "Unknown30": {
-        "summary": "Gippsland Line - coaches replace some evening trains",
-        "location": "Between Southern Cross, Traralgon and Bairnsdale stations",
-        "description": "",
-        "start": "2024-11-18 00:00:00",
-        "end": "2024-12-02 00:00:00",
-        "id": "Unknown30"
-    },
-    "Unknown31": {
-        "summary": "Gippsland Line - coaches replace some evening trains",
-        "location": "Between Southern Cross, Traralgon and Bairnsdale stations",
-        "description": "",
-        "start": "2024-12-01 00:00:00",
-        "end": "2024-12-05 00:00:00",
-        "id": "Unknown31"
-    },
-    "Unknown32": {
-        "summary": "Gippsland Line - coaches replace some evening trains",
-        "location": "Between Southern Cross, Traralgon and Bairnsdale stations",
-        "description": "",
-        "start": "2024-12-13 00:00:00",
-        "end": "2024-12-16 00:00:00",
-        "id": "Unknown32"
-    },
-    "Unknown33": {
-        "summary": "Gippsland Line - coaches replace evening trains",
-        "location": "Between Southern Cross, Traralgon and Bairnsdale stations",
-        "description": "",
-        "start": "2025-01-26 00:00:00",
-        "end": "2025-01-30 00:00:00",
-        "id": "Unknown33"
     },
     "1425": {
         "summary": "Gippsland line \u2013 coaches replacing trains",
